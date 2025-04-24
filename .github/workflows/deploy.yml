@@ -18,25 +18,28 @@ jobs:
           username: ${{ secrets.GHCR_USERNAME }}
           password: ${{ secrets.GHCR_TOKEN }}
 
-      - name: Build and push image
+      - name: Build and push Docker image
         run: |
           docker build -t ghcr.io/${{ github.repository }}:latest .
           docker push ghcr.io/${{ github.repository }}:latest
 
   deploy:
-    runs-on: ubuntu-latest
+    runs-on: [self-hosted, linux, arm64]
     needs: build-and-push
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
 
-      - name: Set up kubectl
+      - name: Install kubectl
         run: |
-          curl -LO https://dl.k8s.io/release/v1.30.0/bin/linux/amd64/kubectl
-          chmod +x kubectl && sudo mv kubectl /usr/local/bin/
+          curl -LO https://dl.k8s.io/release/v1.30.0/bin/linux/arm64/kubectl
+          chmod +x kubectl
+          sudo mv kubectl /usr/local/bin/
 
-      - name: Set KUBECONFIG
+      - name: Set KUBECONFIG and deploy
         run: |
           echo "${{ secrets.KUBECONFIG_B64 }}" | base64 -d > kubeconfig.yaml
           export KUBECONFIG=$PWD/kubeconfig.yaml
+          kubectl version --client
           kubectl apply -f deployment.yaml
+

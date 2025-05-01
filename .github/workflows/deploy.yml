@@ -49,6 +49,26 @@ jobs:
         run: |
           echo "${{ secrets.KUBECONFIG_B64 }}" | base64 -d > kubeconfig.yaml
           export KUBECONFIG=$PWD/kubeconfig.yaml
-          kubectl version --client
-          kubectl apply -f deployment.yaml
+          NAMESPACE=client-${{ github.actor }}
+          kubectl get namespace $NAMESPACE || kubectl create namespace $NAMESPACE
+          kubectl apply -n $NAMESPACE -f deployment.yaml
+          kubectl rollout status -n $NAMESPACE deployment nginx-deployment
+
+      - name: Install Python & pytest
+        run: |
+          sudo apt update
+          sudo apt install -y python3-pip
+          pip3 install pytest requests
+
+      - name: Run dynamic tests (auto-detect language)
+        run: |
+          if [ -f tests/test_laravel.py ]; then pytest tests/test_laravel.py; \
+          elif [ -f tests/test_app.py ]; then pytest tests/test_app.py; \
+          else echo "No tests found"; fi
+
+      - name: Add GitHub Status Badge (if needed)
+        run: echo "![Build Status](https://github.com/${{ github.repository }}/actions/workflows/deploy.yml/badge.svg)" > status-badge.md
+
+      - name: Cleanup (optional)
+        run: rm -f kubeconfig.yaml
 

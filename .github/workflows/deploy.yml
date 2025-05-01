@@ -52,6 +52,7 @@ jobs:
           NAMESPACE=client-${{ github.actor }}
           kubectl get namespace $NAMESPACE || kubectl create namespace $NAMESPACE
           kubectl apply -n $NAMESPACE -f deployment.yaml
+          kubectl apply -n $NAMESPACE -f service.yaml
           kubectl rollout status -n $NAMESPACE deployment nginx-deployment
 
       - name: Install Python & pytest in virtualenv

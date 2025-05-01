@@ -1,0 +1,253 @@
+[2025-04-24 18:39:40Z INFO HostContext] No proxy settings were found based on environmental variables (http_proxy/https_proxy/HTTP_PROXY/HTTPS_PROXY)
+[2025-04-24 18:39:40Z INFO HostContext] Well known directory 'Bin': '/home/ms/k8s-docker-autodeploy-github/actions-runner/bin'
+[2025-04-24 18:39:40Z INFO HostContext] Well known directory 'Root': '/home/ms/k8s-docker-autodeploy-github/actions-runner'
+[2025-04-24 18:39:40Z INFO HostContext] Well known config file 'Credentials': '/home/ms/k8s-docker-autodeploy-github/actions-runner/.credentials'
+[2025-04-24 18:39:40Z INFO HostContext] Well known directory 'Bin': '/home/ms/k8s-docker-autodeploy-github/actions-runner/bin'
+[2025-04-24 18:39:40Z INFO HostContext] Well known directory 'Root': '/home/ms/k8s-docker-autodeploy-github/actions-runner'
+[2025-04-24 18:39:40Z INFO HostContext] Well known config file 'Runner': '/home/ms/k8s-docker-autodeploy-github/actions-runner/.runner'
+[2025-04-24 18:39:40Z INFO Listener] Runner is built for Linux (Arm64) - linux-arm64.
+[2025-04-24 18:39:40Z INFO Listener] RuntimeInformation: Ubuntu 24.04.2 LTS.
+[2025-04-24 18:39:40Z INFO Listener] Version: 2.323.0
+[2025-04-24 18:39:40Z INFO Listener] Commit: d8b82f44a9ec0258904d5869ae683c31d5aac299
+[2025-04-24 18:39:40Z INFO Listener] Culture: en-US
+[2025-04-24 18:39:40Z INFO Listener] UI Culture: en-US
+[2025-04-24 18:39:40Z INFO HostContext] Well known directory 'Bin': '/home/ms/k8s-docker-autodeploy-github/actions-runner/bin'
+[2025-04-24 18:39:40Z INFO HostContext] Well known directory 'Root': '/home/ms/k8s-docker-autodeploy-github/actions-runner'
+[2025-04-24 18:39:40Z INFO Listener] Validating directory permissions for: '/home/ms/k8s-docker-autodeploy-github/actions-runner'
+[2025-04-24 18:39:40Z INFO CommandLineParser] Parse
+[2025-04-24 18:39:40Z INFO CommandLineParser] Parsing 1 args
+[2025-04-24 18:39:40Z INFO CommandLineParser] parsing argument
+[2025-04-24 18:39:40Z INFO CommandLineParser] HasArgs: False
+[2025-04-24 18:39:40Z INFO CommandLineParser] Adding Command: run
+[2025-04-24 18:39:40Z INFO Listener] Arguments parsed
+[2025-04-24 18:39:40Z INFO Runner] ExecuteCommand
+[2025-04-24 18:39:40Z INFO ConfigurationStore] currentAssemblyLocation: /home/ms/k8s-docker-autodeploy-github/actions-runner/bin/Runner.Listener.dll
+[2025-04-24 18:39:40Z INFO HostContext] Well known directory 'Bin': '/home/ms/k8s-docker-autodeploy-github/actions-runner/bin'
+[2025-04-24 18:39:40Z INFO ConfigurationStore] binPath: /home/ms/k8s-docker-autodeploy-github/actions-runner/bin
+[2025-04-24 18:39:40Z INFO HostContext] Well known directory 'Bin': '/home/ms/k8s-docker-autodeploy-github/actions-runner/bin'
+[2025-04-24 18:39:40Z INFO HostContext] Well known directory 'Root': '/home/ms/k8s-docker-autodeploy-github/actions-runner'
+[2025-04-24 18:39:40Z INFO ConfigurationStore] RootFolder: /home/ms/k8s-docker-autodeploy-github/actions-runner
+[2025-04-24 18:39:40Z INFO HostContext] Well known directory 'Bin': '/home/ms/k8s-docker-autodeploy-github/actions-runner/bin'
+[2025-04-24 18:39:40Z INFO HostContext] Well known directory 'Root': '/home/ms/k8s-docker-autodeploy-github/actions-runner'
+[2025-04-24 18:39:40Z INFO HostContext] Well known config file 'Runner': '/home/ms/k8s-docker-autodeploy-github/actions-runner/.runner'
+[2025-04-24 18:39:40Z INFO ConfigurationStore] ConfigFilePath: /home/ms/k8s-docker-autodeploy-github/actions-runner/.runner
+[2025-04-24 18:39:40Z INFO HostContext] Well known directory 'Bin': '/home/ms/k8s-docker-autodeploy-github/actions-runner/bin'
+[2025-04-24 18:39:40Z INFO HostContext] Well known directory 'Root': '/home/ms/k8s-docker-autodeploy-github/actions-runner'
+[2025-04-24 18:39:40Z INFO HostContext] Well known config file 'MigratedRunner': '/home/ms/k8s-docker-autodeploy-github/actions-runner/.runner_migrated'
+[2025-04-24 18:39:40Z INFO ConfigurationStore] MigratedConfigFilePath: /home/ms/k8s-docker-autodeploy-github/actions-runner/.runner_migrated
+[2025-04-24 18:39:40Z INFO HostContext] Well known directory 'Bin': '/home/ms/k8s-docker-autodeploy-github/actions-runner/bin'
+[2025-04-24 18:39:40Z INFO HostContext] Well known directory 'Root': '/home/ms/k8s-docker-autodeploy-github/actions-runner'
+[2025-04-24 18:39:40Z INFO HostContext] Well known config file 'Credentials': '/home/ms/k8s-docker-autodeploy-github/actions-runner/.credentials'
+[2025-04-24 18:39:40Z INFO ConfigurationStore] CredFilePath: /home/ms/k8s-docker-autodeploy-github/actions-runner/.credentials
+[2025-04-24 18:39:40Z INFO HostContext] Well known directory 'Bin': '/home/ms/k8s-docker-autodeploy-github/actions-runner/bin'
+[2025-04-24 18:39:40Z INFO HostContext] Well known directory 'Root': '/home/ms/k8s-docker-autodeploy-github/actions-runner'
+[2025-04-24 18:39:40Z INFO HostContext] Well known config file 'MigratedCredentials': '/home/ms/k8s-docker-autodeploy-github/actions-runner/.credentials_migrated'
+[2025-04-24 18:39:40Z INFO ConfigurationStore] MigratedCredFilePath: /home/ms/k8s-docker-autodeploy-github/actions-runner/.credentials_migrated
+[2025-04-24 18:39:40Z INFO HostContext] Well known directory 'Bin': '/home/ms/k8s-docker-autodeploy-github/actions-runner/bin'
+[2025-04-24 18:39:40Z INFO HostContext] Well known directory 'Root': '/home/ms/k8s-docker-autodeploy-github/actions-runner'
+[2025-04-24 18:39:40Z INFO HostContext] Well known config file 'Service': '/home/ms/k8s-docker-autodeploy-github/actions-runner/.service'
+[2025-04-24 18:39:40Z INFO ConfigurationStore] ServiceConfigFilePath: /home/ms/k8s-docker-autodeploy-github/actions-runner/.service
+[2025-04-24 18:39:40Z INFO CommandSettings] Flag 'help': 'False'
+[2025-04-24 18:39:40Z INFO CommandSettings] Flag 'version': 'False'
+[2025-04-24 18:39:40Z INFO CommandSettings] Flag 'commit': 'False'
+[2025-04-24 18:39:40Z INFO CommandSettings] Flag 'check': 'False'
+[2025-04-24 18:39:40Z INFO CommandSettings] Command 'configure': 'False'
+[2025-04-24 18:39:40Z INFO CommandSettings] Command 'remove': 'False'
+[2025-04-24 18:39:40Z INFO CommandSettings] Command 'warmup': 'False'
+[2025-04-24 18:39:40Z INFO ConfigurationManager] LoadSettings
+[2025-04-24 18:39:40Z INFO ConfigurationStore] IsConfigured()
+[2025-04-24 18:39:40Z INFO ConfigurationStore] IsConfigured: True
+[2025-04-24 18:39:40Z INFO ConfigurationManager] Is configured: True
+[2025-04-24 18:39:40Z INFO ConfigurationStore] Read setting file: 318 chars
+[2025-04-24 18:39:40Z INFO ConfigurationManager] Settings Loaded
+[2025-04-24 18:39:40Z INFO ConfigurationStore] IsServiceConfigured()
+[2025-04-24 18:39:40Z INFO ConfigurationStore] IsServiceConfigured: False
+[2025-04-24 18:39:40Z INFO CommandSettings] Command 'run': 'True'
+[2025-04-24 18:39:40Z INFO ConfigurationStore] IsConfigured()
+[2025-04-24 18:39:40Z INFO ConfigurationStore] IsConfigured: True
+[2025-04-24 18:39:40Z INFO ConfigurationManager] Is configured: True
+[2025-04-24 18:39:40Z INFO Runner] Could not parse the argument value '' for StartupType. Defaulting to Manual
+[2025-04-24 18:39:40Z INFO Runner] Set runner startup type - Manual
+[2025-04-24 18:39:40Z INFO CommandSettings] Flag 'once': 'False'
+[2025-04-24 18:39:40Z INFO CommandSettings] Flag 'once': 'False'
+[2025-04-24 18:39:40Z INFO Runner] RunAsync
+[2025-04-24 18:39:40Z INFO ConfigurationManager] LoadSettings
+[2025-04-24 18:39:40Z INFO ConfigurationStore] IsConfigured()
+[2025-04-24 18:39:40Z INFO ConfigurationStore] IsConfigured: True
+[2025-04-24 18:39:40Z INFO ConfigurationManager] Is configured: True
+[2025-04-24 18:39:40Z INFO ConfigurationManager] Settings Loaded
+[2025-04-24 18:39:40Z INFO MessageListener] {
+  "AgentId": 2,
+  "AgentName": "ccsserver",
+  "PoolId": 1,
+  "PoolName": "Default",
+  "ServerUrl": "https://pipelinesghubeus7.actions.githubusercontent.com/sgvP9QNc0GCh3sCH5WhBxsao5ILLusw15NiqkWtId3MWd7Pnei/",
+  "GitHubUrl": "https://github.com/escanor-source/k8s-docker-autodeploy-github",
+  "WorkFolder": "_work"
+}
+[2025-04-24 18:39:40Z INFO MessageListener] Loading Credentials
+[2025-04-24 18:39:40Z INFO ConfigurationStore] HasCredentials()
+[2025-04-24 18:39:40Z INFO ConfigurationStore] stored True
+[2025-04-24 18:39:40Z INFO CredentialManager] GetCredentialProvider
+[2025-04-24 18:39:40Z INFO CredentialManager] Creating type OAuth
+[2025-04-24 18:39:40Z INFO CredentialManager] Creating credential type: OAuth
+[2025-04-24 18:39:40Z INFO HostContext] Well known directory 'Bin': '/home/ms/k8s-docker-autodeploy-github/actions-runner/bin'
+[2025-04-24 18:39:40Z INFO HostContext] Well known directory 'Root': '/home/ms/k8s-docker-autodeploy-github/actions-runner'
+[2025-04-24 18:39:40Z INFO HostContext] Well known config file 'RSACredentials': '/home/ms/k8s-docker-autodeploy-github/actions-runner/.credentials_rsaparams'
+[2025-04-24 18:39:40Z INFO RSAFileKeyManager] Loading RSA key parameters from file /home/ms/k8s-docker-autodeploy-github/actions-runner/.credentials_rsaparams
+[2025-04-24 18:39:40Z INFO MessageListener] Attempt to create session.
+[2025-04-24 18:39:40Z INFO MessageListener] Connecting to the Runner Server...
+[2025-04-24 18:39:40Z INFO RunnerServer] EstablishVssConnection
+[2025-04-24 18:39:40Z INFO RunnerServer] Establish connection with 100 seconds timeout.
+[2025-04-24 18:39:40Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2025-04-24 18:39:40Z INFO RunnerServer] EstablishVssConnection
+[2025-04-24 18:39:40Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2025-04-24 18:39:40Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2025-04-24 18:39:40Z INFO RunnerServer] EstablishVssConnection
+[2025-04-24 18:39:40Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2025-04-24 18:39:40Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2025-04-24 18:39:41Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2025-04-24 18:39:41Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2025-04-24 18:39:41Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2025-04-24 18:39:42Z INFO MessageListener] VssConnection created
+[2025-04-24 18:39:42Z INFO Terminal] WRITE LINE: 
+[2025-04-24 18:39:42Z INFO Terminal] WRITE LINE: 
+[2025-04-24 18:39:42Z INFO RSAFileKeyManager] Loading RSA key parameters from file /home/ms/k8s-docker-autodeploy-github/actions-runner/.credentials_rsaparams
+[2025-04-24 18:39:42Z INFO RSAFileKeyManager] Loading RSA key parameters from file /home/ms/k8s-docker-autodeploy-github/actions-runner/.credentials_rsaparams
+[2025-04-24 18:39:43Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2025-04-24 18:39:43Z INFO MessageListener] Session created.
+[2025-04-24 18:39:43Z INFO Terminal] WRITE LINE: Current runner version: '2.323.0'
+[2025-04-24 18:39:43Z INFO Terminal] WRITE LINE: 2025-04-24 18:39:43Z: Listening for Jobs
+[2025-04-24 18:39:43Z INFO JobDispatcher] Set runner/worker IPC timeout to 30 seconds.
+[2025-04-24 18:39:43Z INFO RSAFileKeyManager] Loading RSA key parameters from file /home/ms/k8s-docker-autodeploy-github/actions-runner/.credentials_rsaparams
+[2025-04-24 18:39:44Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2025-04-24 18:56:02Z INFO MessageListener] Message '4474657664798765592' received from session 'f816e170-4629-43c1-aaad-90d733fab16a'.
+[2025-04-24 18:56:02Z INFO ConfigurationStore] HasCredentials()
+[2025-04-24 18:56:02Z INFO ConfigurationStore] stored True
+[2025-04-24 18:56:02Z INFO CredentialManager] GetCredentialProvider
+[2025-04-24 18:56:02Z INFO CredentialManager] Creating type OAuth
+[2025-04-24 18:56:02Z INFO CredentialManager] Creating credential type: OAuth
+[2025-04-24 18:56:02Z INFO RSAFileKeyManager] Loading RSA key parameters from file /home/ms/k8s-docker-autodeploy-github/actions-runner/.credentials_rsaparams
+[2025-04-24 18:56:02Z INFO ActionsRunServer] EstablishVssConnection
+[2025-04-24 18:56:02Z INFO ActionsRunServer] Establish connection with 100 seconds timeout.
+[2025-04-24 18:56:02Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2025-04-24 18:56:03Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2025-04-24 18:56:04Z INFO RSAFileKeyManager] Loading RSA key parameters from file /home/ms/k8s-docker-autodeploy-github/actions-runner/.credentials_rsaparams
+[2025-04-24 18:56:04Z INFO RSAFileKeyManager] Loading RSA key parameters from file /home/ms/k8s-docker-autodeploy-github/actions-runner/.credentials_rsaparams
+[2025-04-24 18:56:05Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2025-04-24 18:56:05Z INFO JobDispatcher] Job request 6 for plan 08907798-ede4-466b-a1ed-f009c174c6ed job e07742bd-189a-5079-918b-43f8b2f94b89 received.
+[2025-04-24 18:56:05Z INFO JobDispatcher] Pull OrchestrationId 08907798-ede4-466b-a1ed-f009c174c6ed.deploy.__default from JWT claims
+[2025-04-24 18:56:05Z INFO MessageListener] Received job status event. JobState: Busy
+[2025-04-24 18:56:05Z INFO MessageListener] _getMessagesTokenSource is already disposed.
+[2025-04-24 18:56:05Z INFO Terminal] WRITE LINE: 2025-04-24 18:56:05Z: Running job: deploy
+[2025-04-24 18:56:05Z INFO JobDispatcher] Start renew job request 6 for job e07742bd-189a-5079-918b-43f8b2f94b89.
+[2025-04-24 18:56:06Z INFO JobDispatcher] Successfully renew job request 6, job is valid till 4/24/2025 7:06:06 PM
+[2025-04-24 18:56:06Z INFO HostContext] Well known directory 'Bin': '/home/ms/k8s-docker-autodeploy-github/actions-runner/bin'
+[2025-04-24 18:56:06Z INFO ProcessInvokerWrapper] Starting process:
+[2025-04-24 18:56:06Z INFO ProcessInvokerWrapper]   File name: '/home/ms/k8s-docker-autodeploy-github/actions-runner/bin/Runner.Worker'
+[2025-04-24 18:56:06Z INFO ProcessInvokerWrapper]   Arguments: 'spawnclient 149 152'
+[2025-04-24 18:56:06Z INFO ProcessInvokerWrapper]   Working directory: '/home/ms/k8s-docker-autodeploy-github/actions-runner/bin'
+[2025-04-24 18:56:06Z INFO ProcessInvokerWrapper]   Require exit code zero: 'False'
+[2025-04-24 18:56:06Z INFO ProcessInvokerWrapper]   Encoding web name:  ; code page: ''
+[2025-04-24 18:56:06Z INFO ProcessInvokerWrapper]   Force kill process on cancellation: 'True'
+[2025-04-24 18:56:06Z INFO ProcessInvokerWrapper]   Redirected STDIN: 'False'
+[2025-04-24 18:56:06Z INFO ProcessInvokerWrapper]   Persist current code page: 'False'
+[2025-04-24 18:56:06Z INFO ProcessInvokerWrapper]   Keep redirected STDIN open: 'False'
+[2025-04-24 18:56:06Z INFO ProcessInvokerWrapper]   High priority process: 'True'
+[2025-04-24 18:56:06Z INFO ProcessInvokerWrapper] Process started with process id 36825, waiting for process exit.
+[2025-04-24 18:56:06Z INFO JobDispatcher] Send job request message to worker for job e07742bd-189a-5079-918b-43f8b2f94b89.
+[2025-04-24 18:56:06Z INFO ProcessChannel] Sending message of length 33231, with hash 'dd4fbc2b375c5d0e87412e5cf732b80a839a52db7c2a59ca534f413c62b9dbdf'
+[2025-04-24 18:56:06Z INFO JobNotification] Entering JobStarted Notification
+[2025-04-24 18:56:06Z INFO JobNotification] Entering StartMonitor
+[2025-04-24 18:57:06Z INFO JobDispatcher] Successfully renew job request 6, job is valid till 4/24/2025 7:07:06 PM
+[2025-04-24 18:58:06Z INFO JobDispatcher] Successfully renew job request 6, job is valid till 4/24/2025 7:08:06 PM
+[2025-04-24 18:59:06Z INFO JobDispatcher] Successfully renew job request 6, job is valid till 4/24/2025 7:09:06 PM
+[2025-04-24 19:00:06Z INFO JobDispatcher] Successfully renew job request 6, job is valid till 4/24/2025 7:10:06 PM
+[2025-04-24 19:01:07Z INFO JobDispatcher] Successfully renew job request 6, job is valid till 4/24/2025 7:11:06 PM
+[2025-04-24 19:02:07Z INFO JobDispatcher] Successfully renew job request 6, job is valid till 4/24/2025 7:12:07 PM
+[2025-04-24 19:03:07Z INFO JobDispatcher] Successfully renew job request 6, job is valid till 4/24/2025 7:13:07 PM
+[2025-04-24 19:04:07Z INFO JobDispatcher] Successfully renew job request 6, job is valid till 4/24/2025 7:14:07 PM
+[2025-04-24 19:05:07Z INFO JobDispatcher] Successfully renew job request 6, job is valid till 4/24/2025 7:15:07 PM
+[2025-04-24 19:06:07Z INFO JobDispatcher] Successfully renew job request 6, job is valid till 4/24/2025 7:16:07 PM
+[2025-04-24 19:07:07Z INFO JobDispatcher] Successfully renew job request 6, job is valid till 4/24/2025 7:17:07 PM
+[2025-04-24 19:08:08Z INFO JobDispatcher] Successfully renew job request 6, job is valid till 4/24/2025 7:18:07 PM
+[2025-04-24 19:09:08Z INFO JobDispatcher] Successfully renew job request 6, job is valid till 4/24/2025 7:19:08 PM
+[2025-04-24 19:10:08Z INFO JobDispatcher] Successfully renew job request 6, job is valid till 4/24/2025 7:20:08 PM
+[2025-04-24 19:11:08Z INFO JobDispatcher] Successfully renew job request 6, job is valid till 4/24/2025 7:21:08 PM
+[2025-04-24 19:12:09Z INFO JobDispatcher] Successfully renew job request 6, job is valid till 4/24/2025 7:22:08 PM
+[2025-04-24 19:13:09Z INFO JobDispatcher] Successfully renew job request 6, job is valid till 4/24/2025 7:23:09 PM
+[2025-04-24 19:14:09Z INFO JobDispatcher] Successfully renew job request 6, job is valid till 4/24/2025 7:24:09 PM
+[2025-04-24 19:15:10Z INFO JobDispatcher] Successfully renew job request 6, job is valid till 4/24/2025 7:25:09 PM
+[2025-04-24 19:16:11Z INFO JobDispatcher] Successfully renew job request 6, job is valid till 4/24/2025 7:26:10 PM
+[2025-04-24 19:17:11Z INFO JobDispatcher] Successfully renew job request 6, job is valid till 4/24/2025 7:27:11 PM
+[2025-04-24 19:18:11Z INFO JobDispatcher] Successfully renew job request 6, job is valid till 4/24/2025 7:28:11 PM
+[2025-04-24 19:19:11Z INFO JobDispatcher] Successfully renew job request 6, job is valid till 4/24/2025 7:29:11 PM
+[2025-04-24 19:20:11Z INFO JobDispatcher] Successfully renew job request 6, job is valid till 4/24/2025 7:30:11 PM
+[2025-04-24 19:21:11Z INFO JobDispatcher] Successfully renew job request 6, job is valid till 4/24/2025 7:31:11 PM
+[2025-04-24 19:22:11Z INFO JobDispatcher] Successfully renew job request 6, job is valid till 4/24/2025 7:32:11 PM
+[2025-04-24 19:22:39Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2025-04-24 19:22:39Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2025-04-24 19:22:39Z INFO ProcessInvokerWrapper] Finished process 36825 with exit code 100, and elapsed time 00:26:33.7131306.
+[2025-04-24 19:22:39Z INFO JobDispatcher] Worker finished for job e07742bd-189a-5079-918b-43f8b2f94b89. Code: 100
+[2025-04-24 19:22:39Z INFO JobDispatcher] finish job request for job e07742bd-189a-5079-918b-43f8b2f94b89 with result: Succeeded
+[2025-04-24 19:22:39Z INFO Terminal] WRITE LINE: 2025-04-24 19:22:39Z: Job deploy completed with result: Succeeded
+[2025-04-24 19:22:39Z INFO JobDispatcher] Stop renew job request for job e07742bd-189a-5079-918b-43f8b2f94b89.
+[2025-04-24 19:22:39Z INFO JobDispatcher] job renew has been cancelled, stop renew job request 6.
+[2025-04-24 19:22:39Z INFO JobNotification] Entering JobCompleted Notification
+[2025-04-24 19:22:39Z INFO JobNotification] Entering EndMonitor
+[2025-04-24 19:22:39Z INFO MessageListener] Received job status event. JobState: Online
+[2025-04-24 19:26:25Z INFO MessageListener] No message retrieved from session 'f816e170-4629-43c1-aaad-90d733fab16a' within last 30 minutes.
+[2025-04-24 19:29:47Z INFO RSAFileKeyManager] Loading RSA key parameters from file /home/ms/k8s-docker-autodeploy-github/actions-runner/.credentials_rsaparams
+[2025-04-24 19:29:48Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2025-04-24 19:34:51Z INFO RSAFileKeyManager] Loading RSA key parameters from file /home/ms/k8s-docker-autodeploy-github/actions-runner/.credentials_rsaparams
+[2025-04-24 19:34:52Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2025-04-24 19:41:59Z INFO MessageListener] Message '7974601038341824544' received from session 'f816e170-4629-43c1-aaad-90d733fab16a'.
+[2025-04-24 19:41:59Z INFO ConfigurationStore] HasCredentials()
+[2025-04-24 19:41:59Z INFO ConfigurationStore] stored True
+[2025-04-24 19:41:59Z INFO CredentialManager] GetCredentialProvider
+[2025-04-24 19:41:59Z INFO CredentialManager] Creating type OAuth
+[2025-04-24 19:41:59Z INFO CredentialManager] Creating credential type: OAuth
+[2025-04-24 19:41:59Z INFO RSAFileKeyManager] Loading RSA key parameters from file /home/ms/k8s-docker-autodeploy-github/actions-runner/.credentials_rsaparams
+[2025-04-24 19:41:59Z INFO ActionsRunServer] EstablishVssConnection
+[2025-04-24 19:41:59Z INFO ActionsRunServer] Establish connection with 100 seconds timeout.
+[2025-04-24 19:41:59Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2025-04-24 19:42:00Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2025-04-24 19:42:01Z INFO RSAFileKeyManager] Loading RSA key parameters from file /home/ms/k8s-docker-autodeploy-github/actions-runner/.credentials_rsaparams
+[2025-04-24 19:42:01Z INFO RSAFileKeyManager] Loading RSA key parameters from file /home/ms/k8s-docker-autodeploy-github/actions-runner/.credentials_rsaparams
+[2025-04-24 19:42:01Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2025-04-24 19:42:02Z INFO JobDispatcher] Job request 8 for plan a6d335ed-a479-4826-87bb-5a06abb384f3 job e07742bd-189a-5079-918b-43f8b2f94b89 received.
+[2025-04-24 19:42:02Z INFO JobDispatcher] Pull OrchestrationId a6d335ed-a479-4826-87bb-5a06abb384f3.deploy.__default from JWT claims
+[2025-04-24 19:42:02Z INFO MessageListener] Received job status event. JobState: Busy
+[2025-04-24 19:42:02Z INFO MessageListener] _getMessagesTokenSource is already disposed.
+[2025-04-24 19:42:02Z INFO JobDispatcher] Job request e07742bd-189a-5079-918b-43f8b2f94b89 processed succeed.
+[2025-04-24 19:42:02Z INFO Terminal] WRITE LINE: 2025-04-24 19:42:02Z: Running job: deploy
+[2025-04-24 19:42:02Z INFO JobDispatcher] Start renew job request 8 for job e07742bd-189a-5079-918b-43f8b2f94b89.
+[2025-04-24 19:42:02Z INFO JobDispatcher] Successfully renew job request 8, job is valid till 4/24/2025 7:52:02 PM
+[2025-04-24 19:42:02Z INFO HostContext] Well known directory 'Bin': '/home/ms/k8s-docker-autodeploy-github/actions-runner/bin'
+[2025-04-24 19:42:02Z INFO ProcessInvokerWrapper] Starting process:
+[2025-04-24 19:42:02Z INFO ProcessInvokerWrapper]   File name: '/home/ms/k8s-docker-autodeploy-github/actions-runner/bin/Runner.Worker'
+[2025-04-24 19:42:02Z INFO ProcessInvokerWrapper]   Arguments: 'spawnclient 149 152'
+[2025-04-24 19:42:02Z INFO ProcessInvokerWrapper]   Working directory: '/home/ms/k8s-docker-autodeploy-github/actions-runner/bin'
+[2025-04-24 19:42:02Z INFO ProcessInvokerWrapper]   Require exit code zero: 'False'
+[2025-04-24 19:42:02Z INFO ProcessInvokerWrapper]   Encoding web name:  ; code page: ''
+[2025-04-24 19:42:02Z INFO ProcessInvokerWrapper]   Force kill process on cancellation: 'True'
+[2025-04-24 19:42:02Z INFO ProcessInvokerWrapper]   Redirected STDIN: 'False'
+[2025-04-24 19:42:02Z INFO ProcessInvokerWrapper]   Persist current code page: 'False'
+[2025-04-24 19:42:02Z INFO ProcessInvokerWrapper]   Keep redirected STDIN open: 'False'
+[2025-04-24 19:42:02Z INFO ProcessInvokerWrapper]   High priority process: 'True'
+[2025-04-24 19:42:02Z INFO ProcessInvokerWrapper] Process started with process id 49335, waiting for process exit.
+[2025-04-24 19:42:02Z INFO JobDispatcher] Send job request message to worker for job e07742bd-189a-5079-918b-43f8b2f94b89.
+[2025-04-24 19:42:02Z INFO ProcessChannel] Sending message of length 33239, with hash '4c734c8784648fed36926c1e416c8dfb388696d8b1128e437083e47f23c1e17d'
+[2025-04-24 19:42:03Z INFO JobNotification] Entering JobStarted Notification
+[2025-04-24 19:42:03Z INFO JobNotification] Entering StartMonitor
+[2025-04-24 19:42:42Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2025-04-24 19:42:42Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2025-04-24 19:42:42Z INFO ProcessInvokerWrapper] Finished process 49335 with exit code 100, and elapsed time 00:00:39.5001050.
+[2025-04-24 19:42:42Z INFO JobDispatcher] Worker finished for job e07742bd-189a-5079-918b-43f8b2f94b89. Code: 100
+[2025-04-24 19:42:42Z INFO JobDispatcher] finish job request for job e07742bd-189a-5079-918b-43f8b2f94b89 with result: Succeeded
+[2025-04-24 19:42:42Z INFO Terminal] WRITE LINE: 2025-04-24 19:42:42Z: Job deploy completed with result: Succeeded
+[2025-04-24 19:42:42Z INFO JobDispatcher] Stop renew job request for job e07742bd-189a-5079-918b-43f8b2f94b89.
+[2025-04-24 19:42:42Z INFO JobDispatcher] job renew has been cancelled, stop renew job request 8.
+[2025-04-24 19:42:42Z INFO JobNotification] Entering JobCompleted Notification
+[2025-04-24 19:42:42Z INFO JobNotification] Entering EndMonitor
+[2025-04-24 19:42:42Z INFO MessageListener] Received job status event. JobState: Online

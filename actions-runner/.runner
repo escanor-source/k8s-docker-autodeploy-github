@@ -1,0 +1,9 @@
+﻿{
+  "agentId": 2,
+  "agentName": "ccsserver",
+  "poolId": 1,
+  "poolName": "Default",
+  "serverUrl": "https://pipelinesghubeus7.actions.githubusercontent.com/sgvP9QNc0GCh3sCH5WhBxsao5ILLusw15NiqkWtId3MWd7Pnei/",
+  "gitHubUrl": "https://github.com/escanor-source/k8s-docker-autodeploy-github",
+  "workFolder": "_work"
+}

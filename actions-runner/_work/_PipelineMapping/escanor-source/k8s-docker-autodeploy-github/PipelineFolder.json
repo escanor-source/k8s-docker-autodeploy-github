@@ -1,0 +1,12 @@
+﻿{
+  "repositoryName": "escanor-source/k8s-docker-autodeploy-github",
+  "pipelineDirectory": "k8s-docker-autodeploy-github",
+  "workspaceDirectory": "k8s-docker-autodeploy-github/k8s-docker-autodeploy-github",
+  "repositories": {
+    "escanor-source/k8s-docker-autodeploy-github": {
+      "repositoryPath": "k8s-docker-autodeploy-github/k8s-docker-autodeploy-github",
+      "lastRunOn": "04/24/2025 18:56:09 +00:00"
+    }
+  },
+  "lastRunOn": "04/24/2025 19:42:05 +00:00"
+}

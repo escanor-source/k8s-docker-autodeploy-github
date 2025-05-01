@@ -54,14 +54,17 @@ jobs:
           kubectl apply -n $NAMESPACE -f deployment.yaml
           kubectl rollout status -n $NAMESPACE deployment nginx-deployment
 
-      - name: Install Python & pytest
+      - name: Install Python & pytest in virtualenv
         run: |
           sudo apt update
-          sudo apt install -y python3-pip
+          sudo apt install -y python3-pip python3-venv
+          python3 -m venv venv
+          source venv/bin/activate
           pip3 install pytest requests
 
       - name: Run dynamic tests (auto-detect language)
         run: |
+          source venv/bin/activate
           if [ -f tests/test_laravel.py ]; then pytest tests/test_laravel.py; \
           elif [ -f tests/test_app.py ]; then pytest tests/test_app.py; \
           else echo "No tests found"; fi

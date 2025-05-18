@@ -1,39 +1,40 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: nginx-deployment
+  name: laravel-deployment
 spec:
   replicas: 1
   selector:
     matchLabels:
-      app: nginx
+      app: laravel
   template:
     metadata:
       labels:
-        app: nginx
+        app: laravel
     spec:
       containers:
-        - name: nginx
-          image: ghcr.io/escanor-source/k8s-docker-autodeploy-github:latest
+        - name: laravel
+          image: ghcr.io/escanor-source/laravel-app:latest
           ports:
-            - containerPort: 80
+            - containerPort: 8000
           livenessProbe:
             httpGet:
               path: /
-              port: 80
-            initialDelaySeconds: 5
-            periodSeconds: 10
+              port: 8000
+            initialDelaySeconds: 10
+            periodSeconds: 15
           readinessProbe:
             httpGet:
               path: /
-              port: 80
-            initialDelaySeconds: 2
-            periodSeconds: 5
+              port: 8000
+            initialDelaySeconds: 5
+            periodSeconds: 10
           volumeMounts:
             - name: env-volume
-              mountPath: /var/www/html/.env
+              mountPath: /var/www/.env
               subPath: .env
       volumes:
         - name: env-volume
           configMap:
             name: app-env
+

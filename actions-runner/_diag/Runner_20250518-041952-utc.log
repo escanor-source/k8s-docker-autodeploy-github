@@ -134,3 +134,706 @@
 [2025-05-18 04:19:54Z INFO RSAFileKeyManager] Loading RSA key parameters from file /home/ms/k8s-docker-autodeploy-github/actions-runner/.credentials_rsaparams
 [2025-05-18 04:19:54Z INFO RSAFileKeyManager] Loading RSA key parameters from file /home/ms/k8s-docker-autodeploy-github/actions-runner/.credentials_rsaparams
 [2025-05-18 04:19:55Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2025-05-18 04:20:46Z INFO ConfigurationStore] HasCredentials()
+[2025-05-18 04:20:46Z INFO ConfigurationStore] stored True
+[2025-05-18 04:20:46Z INFO CredentialManager] GetCredentialProvider
+[2025-05-18 04:20:46Z INFO CredentialManager] Creating type OAuth
+[2025-05-18 04:20:46Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-18 04:20:46Z INFO RSAFileKeyManager] Loading RSA key parameters from file /home/ms/k8s-docker-autodeploy-github/actions-runner/.credentials_rsaparams
+[2025-05-18 04:21:36Z INFO ConfigurationStore] HasCredentials()
+[2025-05-18 04:21:36Z INFO ConfigurationStore] stored True
+[2025-05-18 04:21:36Z INFO CredentialManager] GetCredentialProvider
+[2025-05-18 04:21:36Z INFO CredentialManager] Creating type OAuth
+[2025-05-18 04:21:36Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-18 04:21:36Z INFO RSAFileKeyManager] Loading RSA key parameters from file /home/ms/k8s-docker-autodeploy-github/actions-runner/.credentials_rsaparams
+[2025-05-18 04:22:27Z INFO ConfigurationStore] HasCredentials()
+[2025-05-18 04:22:27Z INFO ConfigurationStore] stored True
+[2025-05-18 04:22:27Z INFO CredentialManager] GetCredentialProvider
+[2025-05-18 04:22:27Z INFO CredentialManager] Creating type OAuth
+[2025-05-18 04:22:27Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-18 04:22:27Z INFO RSAFileKeyManager] Loading RSA key parameters from file /home/ms/k8s-docker-autodeploy-github/actions-runner/.credentials_rsaparams
+[2025-05-18 04:23:17Z INFO ConfigurationStore] HasCredentials()
+[2025-05-18 04:23:17Z INFO ConfigurationStore] stored True
+[2025-05-18 04:23:17Z INFO CredentialManager] GetCredentialProvider
+[2025-05-18 04:23:17Z INFO CredentialManager] Creating type OAuth
+[2025-05-18 04:23:17Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-18 04:23:17Z INFO RSAFileKeyManager] Loading RSA key parameters from file /home/ms/k8s-docker-autodeploy-github/actions-runner/.credentials_rsaparams
+[2025-05-18 04:24:07Z INFO ConfigurationStore] HasCredentials()
+[2025-05-18 04:24:07Z INFO ConfigurationStore] stored True
+[2025-05-18 04:24:07Z INFO CredentialManager] GetCredentialProvider
+[2025-05-18 04:24:07Z INFO CredentialManager] Creating type OAuth
+[2025-05-18 04:24:07Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-18 04:24:07Z INFO RSAFileKeyManager] Loading RSA key parameters from file /home/ms/k8s-docker-autodeploy-github/actions-runner/.credentials_rsaparams
+[2025-05-18 04:24:58Z INFO ConfigurationStore] HasCredentials()
+[2025-05-18 04:24:58Z INFO ConfigurationStore] stored True
+[2025-05-18 04:24:58Z INFO CredentialManager] GetCredentialProvider
+[2025-05-18 04:24:58Z INFO CredentialManager] Creating type OAuth
+[2025-05-18 04:24:58Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-18 04:24:58Z INFO RSAFileKeyManager] Loading RSA key parameters from file /home/ms/k8s-docker-autodeploy-github/actions-runner/.credentials_rsaparams
+[2025-05-18 04:25:48Z INFO ConfigurationStore] HasCredentials()
+[2025-05-18 04:25:48Z INFO ConfigurationStore] stored True
+[2025-05-18 04:25:48Z INFO CredentialManager] GetCredentialProvider
+[2025-05-18 04:25:48Z INFO CredentialManager] Creating type OAuth
+[2025-05-18 04:25:48Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-18 04:25:48Z INFO RSAFileKeyManager] Loading RSA key parameters from file /home/ms/k8s-docker-autodeploy-github/actions-runner/.credentials_rsaparams
+[2025-05-18 04:26:39Z INFO ConfigurationStore] HasCredentials()
+[2025-05-18 04:26:39Z INFO ConfigurationStore] stored True
+[2025-05-18 04:26:39Z INFO CredentialManager] GetCredentialProvider
+[2025-05-18 04:26:39Z INFO CredentialManager] Creating type OAuth
+[2025-05-18 04:26:39Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-18 04:26:39Z INFO RSAFileKeyManager] Loading RSA key parameters from file /home/ms/k8s-docker-autodeploy-github/actions-runner/.credentials_rsaparams
+[2025-05-18 04:27:29Z INFO ConfigurationStore] HasCredentials()
+[2025-05-18 04:27:29Z INFO ConfigurationStore] stored True
+[2025-05-18 04:27:29Z INFO CredentialManager] GetCredentialProvider
+[2025-05-18 04:27:29Z INFO CredentialManager] Creating type OAuth
+[2025-05-18 04:27:29Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-18 04:27:29Z INFO RSAFileKeyManager] Loading RSA key parameters from file /home/ms/k8s-docker-autodeploy-github/actions-runner/.credentials_rsaparams
+[2025-05-18 04:28:20Z INFO ConfigurationStore] HasCredentials()
+[2025-05-18 04:28:20Z INFO ConfigurationStore] stored True
+[2025-05-18 04:28:20Z INFO CredentialManager] GetCredentialProvider
+[2025-05-18 04:28:20Z INFO CredentialManager] Creating type OAuth
+[2025-05-18 04:28:20Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-18 04:28:20Z INFO RSAFileKeyManager] Loading RSA key parameters from file /home/ms/k8s-docker-autodeploy-github/actions-runner/.credentials_rsaparams
+[2025-05-18 04:29:10Z INFO ConfigurationStore] HasCredentials()
+[2025-05-18 04:29:10Z INFO ConfigurationStore] stored True
+[2025-05-18 04:29:10Z INFO CredentialManager] GetCredentialProvider
+[2025-05-18 04:29:10Z INFO CredentialManager] Creating type OAuth
+[2025-05-18 04:29:10Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-18 04:29:10Z INFO RSAFileKeyManager] Loading RSA key parameters from file /home/ms/k8s-docker-autodeploy-github/actions-runner/.credentials_rsaparams
+[2025-05-18 04:30:01Z INFO ConfigurationStore] HasCredentials()
+[2025-05-18 04:30:01Z INFO ConfigurationStore] stored True
+[2025-05-18 04:30:01Z INFO CredentialManager] GetCredentialProvider
+[2025-05-18 04:30:01Z INFO CredentialManager] Creating type OAuth
+[2025-05-18 04:30:01Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-18 04:30:01Z INFO RSAFileKeyManager] Loading RSA key parameters from file /home/ms/k8s-docker-autodeploy-github/actions-runner/.credentials_rsaparams
+[2025-05-18 04:30:51Z INFO ConfigurationStore] HasCredentials()
+[2025-05-18 04:30:51Z INFO ConfigurationStore] stored True
+[2025-05-18 04:30:51Z INFO CredentialManager] GetCredentialProvider
+[2025-05-18 04:30:51Z INFO CredentialManager] Creating type OAuth
+[2025-05-18 04:30:51Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-18 04:30:51Z INFO RSAFileKeyManager] Loading RSA key parameters from file /home/ms/k8s-docker-autodeploy-github/actions-runner/.credentials_rsaparams
+[2025-05-18 04:31:42Z INFO ConfigurationStore] HasCredentials()
+[2025-05-18 04:31:42Z INFO ConfigurationStore] stored True
+[2025-05-18 04:31:42Z INFO CredentialManager] GetCredentialProvider
+[2025-05-18 04:31:42Z INFO CredentialManager] Creating type OAuth
+[2025-05-18 04:31:42Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-18 04:31:42Z INFO RSAFileKeyManager] Loading RSA key parameters from file /home/ms/k8s-docker-autodeploy-github/actions-runner/.credentials_rsaparams
+[2025-05-18 04:32:32Z INFO ConfigurationStore] HasCredentials()
+[2025-05-18 04:32:32Z INFO ConfigurationStore] stored True
+[2025-05-18 04:32:32Z INFO CredentialManager] GetCredentialProvider
+[2025-05-18 04:32:32Z INFO CredentialManager] Creating type OAuth
+[2025-05-18 04:32:32Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-18 04:32:32Z INFO RSAFileKeyManager] Loading RSA key parameters from file /home/ms/k8s-docker-autodeploy-github/actions-runner/.credentials_rsaparams
+[2025-05-18 04:33:23Z INFO ConfigurationStore] HasCredentials()
+[2025-05-18 04:33:23Z INFO ConfigurationStore] stored True
+[2025-05-18 04:33:23Z INFO CredentialManager] GetCredentialProvider
+[2025-05-18 04:33:23Z INFO CredentialManager] Creating type OAuth
+[2025-05-18 04:33:23Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-18 04:33:23Z INFO RSAFileKeyManager] Loading RSA key parameters from file /home/ms/k8s-docker-autodeploy-github/actions-runner/.credentials_rsaparams
+[2025-05-18 04:34:13Z INFO ConfigurationStore] HasCredentials()
+[2025-05-18 04:34:13Z INFO ConfigurationStore] stored True
+[2025-05-18 04:34:13Z INFO CredentialManager] GetCredentialProvider
+[2025-05-18 04:34:13Z INFO CredentialManager] Creating type OAuth
+[2025-05-18 04:34:13Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-18 04:34:13Z INFO RSAFileKeyManager] Loading RSA key parameters from file /home/ms/k8s-docker-autodeploy-github/actions-runner/.credentials_rsaparams
+[2025-05-18 04:35:03Z INFO ConfigurationStore] HasCredentials()
+[2025-05-18 04:35:03Z INFO ConfigurationStore] stored True
+[2025-05-18 04:35:03Z INFO CredentialManager] GetCredentialProvider
+[2025-05-18 04:35:03Z INFO CredentialManager] Creating type OAuth
+[2025-05-18 04:35:03Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-18 04:35:03Z INFO RSAFileKeyManager] Loading RSA key parameters from file /home/ms/k8s-docker-autodeploy-github/actions-runner/.credentials_rsaparams
+[2025-05-18 04:35:54Z INFO ConfigurationStore] HasCredentials()
+[2025-05-18 04:35:54Z INFO ConfigurationStore] stored True
+[2025-05-18 04:35:54Z INFO CredentialManager] GetCredentialProvider
+[2025-05-18 04:35:54Z INFO CredentialManager] Creating type OAuth
+[2025-05-18 04:35:54Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-18 04:35:54Z INFO RSAFileKeyManager] Loading RSA key parameters from file /home/ms/k8s-docker-autodeploy-github/actions-runner/.credentials_rsaparams
+[2025-05-18 04:36:44Z INFO ConfigurationStore] HasCredentials()
+[2025-05-18 04:36:44Z INFO ConfigurationStore] stored True
+[2025-05-18 04:36:44Z INFO CredentialManager] GetCredentialProvider
+[2025-05-18 04:36:44Z INFO CredentialManager] Creating type OAuth
+[2025-05-18 04:36:44Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-18 04:36:44Z INFO RSAFileKeyManager] Loading RSA key parameters from file /home/ms/k8s-docker-autodeploy-github/actions-runner/.credentials_rsaparams
+[2025-05-18 04:37:35Z INFO ConfigurationStore] HasCredentials()
+[2025-05-18 04:37:35Z INFO ConfigurationStore] stored True
+[2025-05-18 04:37:35Z INFO CredentialManager] GetCredentialProvider
+[2025-05-18 04:37:35Z INFO CredentialManager] Creating type OAuth
+[2025-05-18 04:37:35Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-18 04:37:35Z INFO RSAFileKeyManager] Loading RSA key parameters from file /home/ms/k8s-docker-autodeploy-github/actions-runner/.credentials_rsaparams
+[2025-05-18 04:38:25Z INFO ConfigurationStore] HasCredentials()
+[2025-05-18 04:38:25Z INFO ConfigurationStore] stored True
+[2025-05-18 04:38:25Z INFO CredentialManager] GetCredentialProvider
+[2025-05-18 04:38:25Z INFO CredentialManager] Creating type OAuth
+[2025-05-18 04:38:25Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-18 04:38:25Z INFO RSAFileKeyManager] Loading RSA key parameters from file /home/ms/k8s-docker-autodeploy-github/actions-runner/.credentials_rsaparams
+[2025-05-18 04:39:16Z INFO ConfigurationStore] HasCredentials()
+[2025-05-18 04:39:16Z INFO ConfigurationStore] stored True
+[2025-05-18 04:39:16Z INFO CredentialManager] GetCredentialProvider
+[2025-05-18 04:39:16Z INFO CredentialManager] Creating type OAuth
+[2025-05-18 04:39:16Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-18 04:39:16Z INFO RSAFileKeyManager] Loading RSA key parameters from file /home/ms/k8s-docker-autodeploy-github/actions-runner/.credentials_rsaparams
+[2025-05-18 04:40:06Z INFO ConfigurationStore] HasCredentials()
+[2025-05-18 04:40:06Z INFO ConfigurationStore] stored True
+[2025-05-18 04:40:06Z INFO CredentialManager] GetCredentialProvider
+[2025-05-18 04:40:06Z INFO CredentialManager] Creating type OAuth
+[2025-05-18 04:40:06Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-18 04:40:06Z INFO RSAFileKeyManager] Loading RSA key parameters from file /home/ms/k8s-docker-autodeploy-github/actions-runner/.credentials_rsaparams
+[2025-05-18 04:40:57Z INFO ConfigurationStore] HasCredentials()
+[2025-05-18 04:40:57Z INFO ConfigurationStore] stored True
+[2025-05-18 04:40:57Z INFO CredentialManager] GetCredentialProvider
+[2025-05-18 04:40:57Z INFO CredentialManager] Creating type OAuth
+[2025-05-18 04:40:57Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-18 04:40:57Z INFO RSAFileKeyManager] Loading RSA key parameters from file /home/ms/k8s-docker-autodeploy-github/actions-runner/.credentials_rsaparams
+[2025-05-18 04:41:47Z INFO ConfigurationStore] HasCredentials()
+[2025-05-18 04:41:47Z INFO ConfigurationStore] stored True
+[2025-05-18 04:41:47Z INFO CredentialManager] GetCredentialProvider
+[2025-05-18 04:41:47Z INFO CredentialManager] Creating type OAuth
+[2025-05-18 04:41:47Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-18 04:41:47Z INFO RSAFileKeyManager] Loading RSA key parameters from file /home/ms/k8s-docker-autodeploy-github/actions-runner/.credentials_rsaparams
+[2025-05-18 04:42:38Z INFO ConfigurationStore] HasCredentials()
+[2025-05-18 04:42:38Z INFO ConfigurationStore] stored True
+[2025-05-18 04:42:38Z INFO CredentialManager] GetCredentialProvider
+[2025-05-18 04:42:38Z INFO CredentialManager] Creating type OAuth
+[2025-05-18 04:42:38Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-18 04:42:38Z INFO RSAFileKeyManager] Loading RSA key parameters from file /home/ms/k8s-docker-autodeploy-github/actions-runner/.credentials_rsaparams
+[2025-05-18 04:43:28Z INFO ConfigurationStore] HasCredentials()
+[2025-05-18 04:43:28Z INFO ConfigurationStore] stored True
+[2025-05-18 04:43:28Z INFO CredentialManager] GetCredentialProvider
+[2025-05-18 04:43:28Z INFO CredentialManager] Creating type OAuth
+[2025-05-18 04:43:28Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-18 04:43:28Z INFO RSAFileKeyManager] Loading RSA key parameters from file /home/ms/k8s-docker-autodeploy-github/actions-runner/.credentials_rsaparams
+[2025-05-18 04:44:19Z INFO ConfigurationStore] HasCredentials()
+[2025-05-18 04:44:19Z INFO ConfigurationStore] stored True
+[2025-05-18 04:44:19Z INFO CredentialManager] GetCredentialProvider
+[2025-05-18 04:44:19Z INFO CredentialManager] Creating type OAuth
+[2025-05-18 04:44:19Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-18 04:44:19Z INFO RSAFileKeyManager] Loading RSA key parameters from file /home/ms/k8s-docker-autodeploy-github/actions-runner/.credentials_rsaparams
+[2025-05-18 04:45:09Z INFO ConfigurationStore] HasCredentials()
+[2025-05-18 04:45:09Z INFO ConfigurationStore] stored True
+[2025-05-18 04:45:09Z INFO CredentialManager] GetCredentialProvider
+[2025-05-18 04:45:09Z INFO CredentialManager] Creating type OAuth
+[2025-05-18 04:45:09Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-18 04:45:09Z INFO RSAFileKeyManager] Loading RSA key parameters from file /home/ms/k8s-docker-autodeploy-github/actions-runner/.credentials_rsaparams
+[2025-05-18 04:46:00Z INFO ConfigurationStore] HasCredentials()
+[2025-05-18 04:46:00Z INFO ConfigurationStore] stored True
+[2025-05-18 04:46:00Z INFO CredentialManager] GetCredentialProvider
+[2025-05-18 04:46:00Z INFO CredentialManager] Creating type OAuth
+[2025-05-18 04:46:00Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-18 04:46:00Z INFO RSAFileKeyManager] Loading RSA key parameters from file /home/ms/k8s-docker-autodeploy-github/actions-runner/.credentials_rsaparams
+[2025-05-18 04:46:50Z INFO ConfigurationStore] HasCredentials()
+[2025-05-18 04:46:50Z INFO ConfigurationStore] stored True
+[2025-05-18 04:46:50Z INFO CredentialManager] GetCredentialProvider
+[2025-05-18 04:46:50Z INFO CredentialManager] Creating type OAuth
+[2025-05-18 04:46:50Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-18 04:46:50Z INFO RSAFileKeyManager] Loading RSA key parameters from file /home/ms/k8s-docker-autodeploy-github/actions-runner/.credentials_rsaparams
+[2025-05-18 04:47:41Z INFO ConfigurationStore] HasCredentials()
+[2025-05-18 04:47:41Z INFO ConfigurationStore] stored True
+[2025-05-18 04:47:41Z INFO CredentialManager] GetCredentialProvider
+[2025-05-18 04:47:41Z INFO CredentialManager] Creating type OAuth
+[2025-05-18 04:47:41Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-18 04:47:41Z INFO RSAFileKeyManager] Loading RSA key parameters from file /home/ms/k8s-docker-autodeploy-github/actions-runner/.credentials_rsaparams
+[2025-05-18 04:48:31Z INFO ConfigurationStore] HasCredentials()
+[2025-05-18 04:48:31Z INFO ConfigurationStore] stored True
+[2025-05-18 04:48:31Z INFO CredentialManager] GetCredentialProvider
+[2025-05-18 04:48:31Z INFO CredentialManager] Creating type OAuth
+[2025-05-18 04:48:31Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-18 04:48:31Z INFO RSAFileKeyManager] Loading RSA key parameters from file /home/ms/k8s-docker-autodeploy-github/actions-runner/.credentials_rsaparams
+[2025-05-18 04:49:21Z INFO ConfigurationStore] HasCredentials()
+[2025-05-18 04:49:21Z INFO ConfigurationStore] stored True
+[2025-05-18 04:49:21Z INFO CredentialManager] GetCredentialProvider
+[2025-05-18 04:49:21Z INFO CredentialManager] Creating type OAuth
+[2025-05-18 04:49:21Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-18 04:49:21Z INFO RSAFileKeyManager] Loading RSA key parameters from file /home/ms/k8s-docker-autodeploy-github/actions-runner/.credentials_rsaparams
+[2025-05-18 04:50:12Z INFO MessageListener] No message retrieved from session '1b52d7ad-e377-4932-8db4-4c160114e8d0' within last 30 minutes.
+[2025-05-18 04:50:12Z INFO ConfigurationStore] HasCredentials()
+[2025-05-18 04:50:12Z INFO ConfigurationStore] stored True
+[2025-05-18 04:50:12Z INFO CredentialManager] GetCredentialProvider
+[2025-05-18 04:50:12Z INFO CredentialManager] Creating type OAuth
+[2025-05-18 04:50:12Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-18 04:50:12Z INFO RSAFileKeyManager] Loading RSA key parameters from file /home/ms/k8s-docker-autodeploy-github/actions-runner/.credentials_rsaparams
+[2025-05-18 04:51:02Z INFO ConfigurationStore] HasCredentials()
+[2025-05-18 04:51:02Z INFO ConfigurationStore] stored True
+[2025-05-18 04:51:02Z INFO CredentialManager] GetCredentialProvider
+[2025-05-18 04:51:02Z INFO CredentialManager] Creating type OAuth
+[2025-05-18 04:51:02Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-18 04:51:02Z INFO RSAFileKeyManager] Loading RSA key parameters from file /home/ms/k8s-docker-autodeploy-github/actions-runner/.credentials_rsaparams
+[2025-05-18 04:51:53Z INFO ConfigurationStore] HasCredentials()
+[2025-05-18 04:51:53Z INFO ConfigurationStore] stored True
+[2025-05-18 04:51:53Z INFO CredentialManager] GetCredentialProvider
+[2025-05-18 04:51:53Z INFO CredentialManager] Creating type OAuth
+[2025-05-18 04:51:53Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-18 04:51:53Z INFO RSAFileKeyManager] Loading RSA key parameters from file /home/ms/k8s-docker-autodeploy-github/actions-runner/.credentials_rsaparams
+[2025-05-18 04:52:43Z INFO ConfigurationStore] HasCredentials()
+[2025-05-18 04:52:43Z INFO ConfigurationStore] stored True
+[2025-05-18 04:52:43Z INFO CredentialManager] GetCredentialProvider
+[2025-05-18 04:52:43Z INFO CredentialManager] Creating type OAuth
+[2025-05-18 04:52:43Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-18 04:52:43Z INFO RSAFileKeyManager] Loading RSA key parameters from file /home/ms/k8s-docker-autodeploy-github/actions-runner/.credentials_rsaparams
+[2025-05-18 04:53:34Z INFO ConfigurationStore] HasCredentials()
+[2025-05-18 04:53:34Z INFO ConfigurationStore] stored True
+[2025-05-18 04:53:34Z INFO CredentialManager] GetCredentialProvider
+[2025-05-18 04:53:34Z INFO CredentialManager] Creating type OAuth
+[2025-05-18 04:53:34Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-18 04:53:34Z INFO RSAFileKeyManager] Loading RSA key parameters from file /home/ms/k8s-docker-autodeploy-github/actions-runner/.credentials_rsaparams
+[2025-05-18 04:54:24Z INFO ConfigurationStore] HasCredentials()
+[2025-05-18 04:54:24Z INFO ConfigurationStore] stored True
+[2025-05-18 04:54:24Z INFO CredentialManager] GetCredentialProvider
+[2025-05-18 04:54:24Z INFO CredentialManager] Creating type OAuth
+[2025-05-18 04:54:24Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-18 04:54:24Z INFO RSAFileKeyManager] Loading RSA key parameters from file /home/ms/k8s-docker-autodeploy-github/actions-runner/.credentials_rsaparams
+[2025-05-18 04:55:14Z INFO ConfigurationStore] HasCredentials()
+[2025-05-18 04:55:14Z INFO ConfigurationStore] stored True
+[2025-05-18 04:55:14Z INFO CredentialManager] GetCredentialProvider
+[2025-05-18 04:55:14Z INFO CredentialManager] Creating type OAuth
+[2025-05-18 04:55:14Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-18 04:55:14Z INFO RSAFileKeyManager] Loading RSA key parameters from file /home/ms/k8s-docker-autodeploy-github/actions-runner/.credentials_rsaparams
+[2025-05-18 04:56:05Z INFO ConfigurationStore] HasCredentials()
+[2025-05-18 04:56:05Z INFO ConfigurationStore] stored True
+[2025-05-18 04:56:05Z INFO CredentialManager] GetCredentialProvider
+[2025-05-18 04:56:05Z INFO CredentialManager] Creating type OAuth
+[2025-05-18 04:56:05Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-18 04:56:05Z INFO RSAFileKeyManager] Loading RSA key parameters from file /home/ms/k8s-docker-autodeploy-github/actions-runner/.credentials_rsaparams
+[2025-05-18 04:56:55Z INFO ConfigurationStore] HasCredentials()
+[2025-05-18 04:56:55Z INFO ConfigurationStore] stored True
+[2025-05-18 04:56:55Z INFO CredentialManager] GetCredentialProvider
+[2025-05-18 04:56:55Z INFO CredentialManager] Creating type OAuth
+[2025-05-18 04:56:55Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-18 04:56:55Z INFO RSAFileKeyManager] Loading RSA key parameters from file /home/ms/k8s-docker-autodeploy-github/actions-runner/.credentials_rsaparams
+[2025-05-18 04:57:46Z INFO ConfigurationStore] HasCredentials()
+[2025-05-18 04:57:46Z INFO ConfigurationStore] stored True
+[2025-05-18 04:57:46Z INFO CredentialManager] GetCredentialProvider
+[2025-05-18 04:57:46Z INFO CredentialManager] Creating type OAuth
+[2025-05-18 04:57:46Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-18 04:57:46Z INFO RSAFileKeyManager] Loading RSA key parameters from file /home/ms/k8s-docker-autodeploy-github/actions-runner/.credentials_rsaparams
+[2025-05-18 04:58:36Z INFO ConfigurationStore] HasCredentials()
+[2025-05-18 04:58:36Z INFO ConfigurationStore] stored True
+[2025-05-18 04:58:36Z INFO CredentialManager] GetCredentialProvider
+[2025-05-18 04:58:36Z INFO CredentialManager] Creating type OAuth
+[2025-05-18 04:58:36Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-18 04:58:36Z INFO RSAFileKeyManager] Loading RSA key parameters from file /home/ms/k8s-docker-autodeploy-github/actions-runner/.credentials_rsaparams
+[2025-05-18 04:59:27Z INFO ConfigurationStore] HasCredentials()
+[2025-05-18 04:59:27Z INFO ConfigurationStore] stored True
+[2025-05-18 04:59:27Z INFO CredentialManager] GetCredentialProvider
+[2025-05-18 04:59:27Z INFO CredentialManager] Creating type OAuth
+[2025-05-18 04:59:27Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-18 04:59:27Z INFO RSAFileKeyManager] Loading RSA key parameters from file /home/ms/k8s-docker-autodeploy-github/actions-runner/.credentials_rsaparams
+[2025-05-18 05:00:17Z INFO ConfigurationStore] HasCredentials()
+[2025-05-18 05:00:17Z INFO ConfigurationStore] stored True
+[2025-05-18 05:00:17Z INFO CredentialManager] GetCredentialProvider
+[2025-05-18 05:00:17Z INFO CredentialManager] Creating type OAuth
+[2025-05-18 05:00:17Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-18 05:00:17Z INFO RSAFileKeyManager] Loading RSA key parameters from file /home/ms/k8s-docker-autodeploy-github/actions-runner/.credentials_rsaparams
+[2025-05-18 05:01:08Z INFO ConfigurationStore] HasCredentials()
+[2025-05-18 05:01:08Z INFO ConfigurationStore] stored True
+[2025-05-18 05:01:08Z INFO CredentialManager] GetCredentialProvider
+[2025-05-18 05:01:08Z INFO CredentialManager] Creating type OAuth
+[2025-05-18 05:01:08Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-18 05:01:08Z INFO RSAFileKeyManager] Loading RSA key parameters from file /home/ms/k8s-docker-autodeploy-github/actions-runner/.credentials_rsaparams
+[2025-05-18 05:01:58Z INFO ConfigurationStore] HasCredentials()
+[2025-05-18 05:01:58Z INFO ConfigurationStore] stored True
+[2025-05-18 05:01:58Z INFO CredentialManager] GetCredentialProvider
+[2025-05-18 05:01:58Z INFO CredentialManager] Creating type OAuth
+[2025-05-18 05:01:58Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-18 05:01:58Z INFO RSAFileKeyManager] Loading RSA key parameters from file /home/ms/k8s-docker-autodeploy-github/actions-runner/.credentials_rsaparams
+[2025-05-18 05:02:49Z INFO ConfigurationStore] HasCredentials()
+[2025-05-18 05:02:49Z INFO ConfigurationStore] stored True
+[2025-05-18 05:02:49Z INFO CredentialManager] GetCredentialProvider
+[2025-05-18 05:02:49Z INFO CredentialManager] Creating type OAuth
+[2025-05-18 05:02:49Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-18 05:02:49Z INFO RSAFileKeyManager] Loading RSA key parameters from file /home/ms/k8s-docker-autodeploy-github/actions-runner/.credentials_rsaparams
+[2025-05-18 05:03:39Z INFO ConfigurationStore] HasCredentials()
+[2025-05-18 05:03:39Z INFO ConfigurationStore] stored True
+[2025-05-18 05:03:39Z INFO CredentialManager] GetCredentialProvider
+[2025-05-18 05:03:39Z INFO CredentialManager] Creating type OAuth
+[2025-05-18 05:03:39Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-18 05:03:39Z INFO RSAFileKeyManager] Loading RSA key parameters from file /home/ms/k8s-docker-autodeploy-github/actions-runner/.credentials_rsaparams
+[2025-05-18 05:04:29Z INFO ConfigurationStore] HasCredentials()
+[2025-05-18 05:04:29Z INFO ConfigurationStore] stored True
+[2025-05-18 05:04:29Z INFO CredentialManager] GetCredentialProvider
+[2025-05-18 05:04:29Z INFO CredentialManager] Creating type OAuth
+[2025-05-18 05:04:29Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-18 05:04:29Z INFO RSAFileKeyManager] Loading RSA key parameters from file /home/ms/k8s-docker-autodeploy-github/actions-runner/.credentials_rsaparams
+[2025-05-18 05:05:20Z INFO ConfigurationStore] HasCredentials()
+[2025-05-18 05:05:20Z INFO ConfigurationStore] stored True
+[2025-05-18 05:05:20Z INFO CredentialManager] GetCredentialProvider
+[2025-05-18 05:05:20Z INFO CredentialManager] Creating type OAuth
+[2025-05-18 05:05:20Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-18 05:05:20Z INFO RSAFileKeyManager] Loading RSA key parameters from file /home/ms/k8s-docker-autodeploy-github/actions-runner/.credentials_rsaparams
+[2025-05-18 05:06:10Z INFO ConfigurationStore] HasCredentials()
+[2025-05-18 05:06:10Z INFO ConfigurationStore] stored True
+[2025-05-18 05:06:10Z INFO CredentialManager] GetCredentialProvider
+[2025-05-18 05:06:10Z INFO CredentialManager] Creating type OAuth
+[2025-05-18 05:06:10Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-18 05:06:10Z INFO RSAFileKeyManager] Loading RSA key parameters from file /home/ms/k8s-docker-autodeploy-github/actions-runner/.credentials_rsaparams
+[2025-05-18 05:07:01Z INFO ConfigurationStore] HasCredentials()
+[2025-05-18 05:07:01Z INFO ConfigurationStore] stored True
+[2025-05-18 05:07:01Z INFO CredentialManager] GetCredentialProvider
+[2025-05-18 05:07:01Z INFO CredentialManager] Creating type OAuth
+[2025-05-18 05:07:01Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-18 05:07:01Z INFO RSAFileKeyManager] Loading RSA key parameters from file /home/ms/k8s-docker-autodeploy-github/actions-runner/.credentials_rsaparams
+[2025-05-18 05:07:51Z INFO ConfigurationStore] HasCredentials()
+[2025-05-18 05:07:51Z INFO ConfigurationStore] stored True
+[2025-05-18 05:07:51Z INFO CredentialManager] GetCredentialProvider
+[2025-05-18 05:07:51Z INFO CredentialManager] Creating type OAuth
+[2025-05-18 05:07:51Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-18 05:07:51Z INFO RSAFileKeyManager] Loading RSA key parameters from file /home/ms/k8s-docker-autodeploy-github/actions-runner/.credentials_rsaparams
+[2025-05-18 05:08:42Z INFO ConfigurationStore] HasCredentials()
+[2025-05-18 05:08:42Z INFO ConfigurationStore] stored True
+[2025-05-18 05:08:42Z INFO CredentialManager] GetCredentialProvider
+[2025-05-18 05:08:42Z INFO CredentialManager] Creating type OAuth
+[2025-05-18 05:08:42Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-18 05:08:42Z INFO RSAFileKeyManager] Loading RSA key parameters from file /home/ms/k8s-docker-autodeploy-github/actions-runner/.credentials_rsaparams
+[2025-05-18 05:09:32Z INFO ConfigurationStore] HasCredentials()
+[2025-05-18 05:09:32Z INFO ConfigurationStore] stored True
+[2025-05-18 05:09:32Z INFO CredentialManager] GetCredentialProvider
+[2025-05-18 05:09:32Z INFO CredentialManager] Creating type OAuth
+[2025-05-18 05:09:32Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-18 05:09:32Z INFO RSAFileKeyManager] Loading RSA key parameters from file /home/ms/k8s-docker-autodeploy-github/actions-runner/.credentials_rsaparams
+[2025-05-18 05:10:23Z INFO ConfigurationStore] HasCredentials()
+[2025-05-18 05:10:23Z INFO ConfigurationStore] stored True
+[2025-05-18 05:10:23Z INFO CredentialManager] GetCredentialProvider
+[2025-05-18 05:10:23Z INFO CredentialManager] Creating type OAuth
+[2025-05-18 05:10:23Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-18 05:10:23Z INFO RSAFileKeyManager] Loading RSA key parameters from file /home/ms/k8s-docker-autodeploy-github/actions-runner/.credentials_rsaparams
+[2025-05-18 05:10:23Z INFO RSAFileKeyManager] Loading RSA key parameters from file /home/ms/k8s-docker-autodeploy-github/actions-runner/.credentials_rsaparams
+[2025-05-18 05:10:23Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2025-05-18 05:11:14Z INFO ConfigurationStore] HasCredentials()
+[2025-05-18 05:11:14Z INFO ConfigurationStore] stored True
+[2025-05-18 05:11:14Z INFO CredentialManager] GetCredentialProvider
+[2025-05-18 05:11:14Z INFO CredentialManager] Creating type OAuth
+[2025-05-18 05:11:14Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-18 05:11:14Z INFO RSAFileKeyManager] Loading RSA key parameters from file /home/ms/k8s-docker-autodeploy-github/actions-runner/.credentials_rsaparams
+[2025-05-18 05:12:04Z INFO ConfigurationStore] HasCredentials()
+[2025-05-18 05:12:04Z INFO ConfigurationStore] stored True
+[2025-05-18 05:12:04Z INFO CredentialManager] GetCredentialProvider
+[2025-05-18 05:12:04Z INFO CredentialManager] Creating type OAuth
+[2025-05-18 05:12:04Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-18 05:12:04Z INFO RSAFileKeyManager] Loading RSA key parameters from file /home/ms/k8s-docker-autodeploy-github/actions-runner/.credentials_rsaparams
+[2025-05-18 05:12:55Z INFO ConfigurationStore] HasCredentials()
+[2025-05-18 05:12:55Z INFO ConfigurationStore] stored True
+[2025-05-18 05:12:55Z INFO CredentialManager] GetCredentialProvider
+[2025-05-18 05:12:55Z INFO CredentialManager] Creating type OAuth
+[2025-05-18 05:12:55Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-18 05:12:55Z INFO RSAFileKeyManager] Loading RSA key parameters from file /home/ms/k8s-docker-autodeploy-github/actions-runner/.credentials_rsaparams
+[2025-05-18 05:13:45Z INFO ConfigurationStore] HasCredentials()
+[2025-05-18 05:13:45Z INFO ConfigurationStore] stored True
+[2025-05-18 05:13:45Z INFO CredentialManager] GetCredentialProvider
+[2025-05-18 05:13:45Z INFO CredentialManager] Creating type OAuth
+[2025-05-18 05:13:45Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-18 05:13:45Z INFO RSAFileKeyManager] Loading RSA key parameters from file /home/ms/k8s-docker-autodeploy-github/actions-runner/.credentials_rsaparams
+[2025-05-18 05:14:36Z INFO ConfigurationStore] HasCredentials()
+[2025-05-18 05:14:36Z INFO ConfigurationStore] stored True
+[2025-05-18 05:14:36Z INFO CredentialManager] GetCredentialProvider
+[2025-05-18 05:14:36Z INFO CredentialManager] Creating type OAuth
+[2025-05-18 05:14:36Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-18 05:14:36Z INFO RSAFileKeyManager] Loading RSA key parameters from file /home/ms/k8s-docker-autodeploy-github/actions-runner/.credentials_rsaparams
+[2025-05-18 05:15:26Z INFO RSAFileKeyManager] Loading RSA key parameters from file /home/ms/k8s-docker-autodeploy-github/actions-runner/.credentials_rsaparams
+[2025-05-18 05:15:27Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2025-05-18 05:15:27Z INFO ConfigurationStore] HasCredentials()
+[2025-05-18 05:15:27Z INFO ConfigurationStore] stored True
+[2025-05-18 05:15:27Z INFO CredentialManager] GetCredentialProvider
+[2025-05-18 05:15:27Z INFO CredentialManager] Creating type OAuth
+[2025-05-18 05:15:27Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-18 05:15:27Z INFO RSAFileKeyManager] Loading RSA key parameters from file /home/ms/k8s-docker-autodeploy-github/actions-runner/.credentials_rsaparams
+[2025-05-18 05:16:17Z INFO ConfigurationStore] HasCredentials()
+[2025-05-18 05:16:17Z INFO ConfigurationStore] stored True
+[2025-05-18 05:16:17Z INFO CredentialManager] GetCredentialProvider
+[2025-05-18 05:16:17Z INFO CredentialManager] Creating type OAuth
+[2025-05-18 05:16:17Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-18 05:16:17Z INFO RSAFileKeyManager] Loading RSA key parameters from file /home/ms/k8s-docker-autodeploy-github/actions-runner/.credentials_rsaparams
+[2025-05-18 05:17:08Z INFO ConfigurationStore] HasCredentials()
+[2025-05-18 05:17:08Z INFO ConfigurationStore] stored True
+[2025-05-18 05:17:08Z INFO CredentialManager] GetCredentialProvider
+[2025-05-18 05:17:08Z INFO CredentialManager] Creating type OAuth
+[2025-05-18 05:17:08Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-18 05:17:08Z INFO RSAFileKeyManager] Loading RSA key parameters from file /home/ms/k8s-docker-autodeploy-github/actions-runner/.credentials_rsaparams
+[2025-05-18 05:17:58Z INFO ConfigurationStore] HasCredentials()
+[2025-05-18 05:17:58Z INFO ConfigurationStore] stored True
+[2025-05-18 05:17:58Z INFO CredentialManager] GetCredentialProvider
+[2025-05-18 05:17:58Z INFO CredentialManager] Creating type OAuth
+[2025-05-18 05:17:58Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-18 05:17:58Z INFO RSAFileKeyManager] Loading RSA key parameters from file /home/ms/k8s-docker-autodeploy-github/actions-runner/.credentials_rsaparams
+[2025-05-18 05:18:49Z INFO ConfigurationStore] HasCredentials()
+[2025-05-18 05:18:49Z INFO ConfigurationStore] stored True
+[2025-05-18 05:18:49Z INFO CredentialManager] GetCredentialProvider
+[2025-05-18 05:18:49Z INFO CredentialManager] Creating type OAuth
+[2025-05-18 05:18:49Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-18 05:18:49Z INFO RSAFileKeyManager] Loading RSA key parameters from file /home/ms/k8s-docker-autodeploy-github/actions-runner/.credentials_rsaparams
+[2025-05-18 05:19:39Z INFO ConfigurationStore] HasCredentials()
+[2025-05-18 05:19:39Z INFO ConfigurationStore] stored True
+[2025-05-18 05:19:39Z INFO CredentialManager] GetCredentialProvider
+[2025-05-18 05:19:39Z INFO CredentialManager] Creating type OAuth
+[2025-05-18 05:19:39Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-18 05:19:39Z INFO RSAFileKeyManager] Loading RSA key parameters from file /home/ms/k8s-docker-autodeploy-github/actions-runner/.credentials_rsaparams
+[2025-05-18 05:20:29Z INFO MessageListener] No message retrieved from session '1b52d7ad-e377-4932-8db4-4c160114e8d0' within last 30 minutes.
+[2025-05-18 05:20:30Z INFO ConfigurationStore] HasCredentials()
+[2025-05-18 05:20:30Z INFO ConfigurationStore] stored True
+[2025-05-18 05:20:30Z INFO CredentialManager] GetCredentialProvider
+[2025-05-18 05:20:30Z INFO CredentialManager] Creating type OAuth
+[2025-05-18 05:20:30Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-18 05:20:30Z INFO RSAFileKeyManager] Loading RSA key parameters from file /home/ms/k8s-docker-autodeploy-github/actions-runner/.credentials_rsaparams
+[2025-05-18 05:21:20Z INFO ConfigurationStore] HasCredentials()
+[2025-05-18 05:21:20Z INFO ConfigurationStore] stored True
+[2025-05-18 05:21:20Z INFO CredentialManager] GetCredentialProvider
+[2025-05-18 05:21:20Z INFO CredentialManager] Creating type OAuth
+[2025-05-18 05:21:20Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-18 05:21:20Z INFO RSAFileKeyManager] Loading RSA key parameters from file /home/ms/k8s-docker-autodeploy-github/actions-runner/.credentials_rsaparams
+[2025-05-18 05:22:10Z INFO ConfigurationStore] HasCredentials()
+[2025-05-18 05:22:10Z INFO ConfigurationStore] stored True
+[2025-05-18 05:22:10Z INFO CredentialManager] GetCredentialProvider
+[2025-05-18 05:22:10Z INFO CredentialManager] Creating type OAuth
+[2025-05-18 05:22:10Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-18 05:22:10Z INFO RSAFileKeyManager] Loading RSA key parameters from file /home/ms/k8s-docker-autodeploy-github/actions-runner/.credentials_rsaparams
+[2025-05-18 05:23:01Z INFO ConfigurationStore] HasCredentials()
+[2025-05-18 05:23:01Z INFO ConfigurationStore] stored True
+[2025-05-18 05:23:01Z INFO CredentialManager] GetCredentialProvider
+[2025-05-18 05:23:01Z INFO CredentialManager] Creating type OAuth
+[2025-05-18 05:23:01Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-18 05:23:01Z INFO RSAFileKeyManager] Loading RSA key parameters from file /home/ms/k8s-docker-autodeploy-github/actions-runner/.credentials_rsaparams
+[2025-05-18 05:23:51Z INFO ConfigurationStore] HasCredentials()
+[2025-05-18 05:23:51Z INFO ConfigurationStore] stored True
+[2025-05-18 05:23:51Z INFO CredentialManager] GetCredentialProvider
+[2025-05-18 05:23:51Z INFO CredentialManager] Creating type OAuth
+[2025-05-18 05:23:51Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-18 05:23:51Z INFO RSAFileKeyManager] Loading RSA key parameters from file /home/ms/k8s-docker-autodeploy-github/actions-runner/.credentials_rsaparams
+[2025-05-18 05:24:42Z INFO ConfigurationStore] HasCredentials()
+[2025-05-18 05:24:42Z INFO ConfigurationStore] stored True
+[2025-05-18 05:24:42Z INFO CredentialManager] GetCredentialProvider
+[2025-05-18 05:24:42Z INFO CredentialManager] Creating type OAuth
+[2025-05-18 05:24:42Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-18 05:24:42Z INFO RSAFileKeyManager] Loading RSA key parameters from file /home/ms/k8s-docker-autodeploy-github/actions-runner/.credentials_rsaparams
+[2025-05-18 05:25:32Z INFO ConfigurationStore] HasCredentials()
+[2025-05-18 05:25:32Z INFO ConfigurationStore] stored True
+[2025-05-18 05:25:32Z INFO CredentialManager] GetCredentialProvider
+[2025-05-18 05:25:32Z INFO CredentialManager] Creating type OAuth
+[2025-05-18 05:25:32Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-18 05:25:32Z INFO RSAFileKeyManager] Loading RSA key parameters from file /home/ms/k8s-docker-autodeploy-github/actions-runner/.credentials_rsaparams
+[2025-05-18 05:26:23Z INFO ConfigurationStore] HasCredentials()
+[2025-05-18 05:26:23Z INFO ConfigurationStore] stored True
+[2025-05-18 05:26:23Z INFO CredentialManager] GetCredentialProvider
+[2025-05-18 05:26:23Z INFO CredentialManager] Creating type OAuth
+[2025-05-18 05:26:23Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-18 05:26:23Z INFO RSAFileKeyManager] Loading RSA key parameters from file /home/ms/k8s-docker-autodeploy-github/actions-runner/.credentials_rsaparams
+[2025-05-18 05:27:13Z INFO ConfigurationStore] HasCredentials()
+[2025-05-18 05:27:13Z INFO ConfigurationStore] stored True
+[2025-05-18 05:27:13Z INFO CredentialManager] GetCredentialProvider
+[2025-05-18 05:27:13Z INFO CredentialManager] Creating type OAuth
+[2025-05-18 05:27:13Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-18 05:27:13Z INFO RSAFileKeyManager] Loading RSA key parameters from file /home/ms/k8s-docker-autodeploy-github/actions-runner/.credentials_rsaparams
+[2025-05-18 05:28:04Z INFO ConfigurationStore] HasCredentials()
+[2025-05-18 05:28:04Z INFO ConfigurationStore] stored True
+[2025-05-18 05:28:04Z INFO CredentialManager] GetCredentialProvider
+[2025-05-18 05:28:04Z INFO CredentialManager] Creating type OAuth
+[2025-05-18 05:28:04Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-18 05:28:04Z INFO RSAFileKeyManager] Loading RSA key parameters from file /home/ms/k8s-docker-autodeploy-github/actions-runner/.credentials_rsaparams
+[2025-05-18 05:28:54Z INFO ConfigurationStore] HasCredentials()
+[2025-05-18 05:28:54Z INFO ConfigurationStore] stored True
+[2025-05-18 05:28:54Z INFO CredentialManager] GetCredentialProvider
+[2025-05-18 05:28:54Z INFO CredentialManager] Creating type OAuth
+[2025-05-18 05:28:54Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-18 05:28:54Z INFO RSAFileKeyManager] Loading RSA key parameters from file /home/ms/k8s-docker-autodeploy-github/actions-runner/.credentials_rsaparams
+[2025-05-18 05:29:45Z INFO ConfigurationStore] HasCredentials()
+[2025-05-18 05:29:45Z INFO ConfigurationStore] stored True
+[2025-05-18 05:29:45Z INFO CredentialManager] GetCredentialProvider
+[2025-05-18 05:29:45Z INFO CredentialManager] Creating type OAuth
+[2025-05-18 05:29:45Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-18 05:29:45Z INFO RSAFileKeyManager] Loading RSA key parameters from file /home/ms/k8s-docker-autodeploy-github/actions-runner/.credentials_rsaparams
+[2025-05-18 05:30:35Z INFO ConfigurationStore] HasCredentials()
+[2025-05-18 05:30:35Z INFO ConfigurationStore] stored True
+[2025-05-18 05:30:35Z INFO CredentialManager] GetCredentialProvider
+[2025-05-18 05:30:35Z INFO CredentialManager] Creating type OAuth
+[2025-05-18 05:30:35Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-18 05:30:35Z INFO RSAFileKeyManager] Loading RSA key parameters from file /home/ms/k8s-docker-autodeploy-github/actions-runner/.credentials_rsaparams
+[2025-05-18 05:31:26Z INFO ConfigurationStore] HasCredentials()
+[2025-05-18 05:31:26Z INFO ConfigurationStore] stored True
+[2025-05-18 05:31:26Z INFO CredentialManager] GetCredentialProvider
+[2025-05-18 05:31:26Z INFO CredentialManager] Creating type OAuth
+[2025-05-18 05:31:26Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-18 05:31:26Z INFO RSAFileKeyManager] Loading RSA key parameters from file /home/ms/k8s-docker-autodeploy-github/actions-runner/.credentials_rsaparams
+[2025-05-18 05:32:16Z INFO ConfigurationStore] HasCredentials()
+[2025-05-18 05:32:16Z INFO ConfigurationStore] stored True
+[2025-05-18 05:32:16Z INFO CredentialManager] GetCredentialProvider
+[2025-05-18 05:32:16Z INFO CredentialManager] Creating type OAuth
+[2025-05-18 05:32:16Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-18 05:32:16Z INFO RSAFileKeyManager] Loading RSA key parameters from file /home/ms/k8s-docker-autodeploy-github/actions-runner/.credentials_rsaparams
+[2025-05-18 05:33:06Z INFO ConfigurationStore] HasCredentials()
+[2025-05-18 05:33:06Z INFO ConfigurationStore] stored True
+[2025-05-18 05:33:06Z INFO CredentialManager] GetCredentialProvider
+[2025-05-18 05:33:06Z INFO CredentialManager] Creating type OAuth
+[2025-05-18 05:33:06Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-18 05:33:06Z INFO RSAFileKeyManager] Loading RSA key parameters from file /home/ms/k8s-docker-autodeploy-github/actions-runner/.credentials_rsaparams
+[2025-05-18 05:33:57Z INFO ConfigurationStore] HasCredentials()
+[2025-05-18 05:33:57Z INFO ConfigurationStore] stored True
+[2025-05-18 05:33:57Z INFO CredentialManager] GetCredentialProvider
+[2025-05-18 05:33:57Z INFO CredentialManager] Creating type OAuth
+[2025-05-18 05:33:57Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-18 05:33:57Z INFO RSAFileKeyManager] Loading RSA key parameters from file /home/ms/k8s-docker-autodeploy-github/actions-runner/.credentials_rsaparams
+[2025-05-18 05:34:47Z INFO ConfigurationStore] HasCredentials()
+[2025-05-18 05:34:47Z INFO ConfigurationStore] stored True
+[2025-05-18 05:34:47Z INFO CredentialManager] GetCredentialProvider
+[2025-05-18 05:34:47Z INFO CredentialManager] Creating type OAuth
+[2025-05-18 05:34:47Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-18 05:34:47Z INFO RSAFileKeyManager] Loading RSA key parameters from file /home/ms/k8s-docker-autodeploy-github/actions-runner/.credentials_rsaparams
+[2025-05-18 05:35:38Z INFO ConfigurationStore] HasCredentials()
+[2025-05-18 05:35:38Z INFO ConfigurationStore] stored True
+[2025-05-18 05:35:38Z INFO CredentialManager] GetCredentialProvider
+[2025-05-18 05:35:38Z INFO CredentialManager] Creating type OAuth
+[2025-05-18 05:35:38Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-18 05:35:38Z INFO RSAFileKeyManager] Loading RSA key parameters from file /home/ms/k8s-docker-autodeploy-github/actions-runner/.credentials_rsaparams
+[2025-05-18 05:36:28Z INFO ConfigurationStore] HasCredentials()
+[2025-05-18 05:36:28Z INFO ConfigurationStore] stored True
+[2025-05-18 05:36:28Z INFO CredentialManager] GetCredentialProvider
+[2025-05-18 05:36:28Z INFO CredentialManager] Creating type OAuth
+[2025-05-18 05:36:28Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-18 05:36:28Z INFO RSAFileKeyManager] Loading RSA key parameters from file /home/ms/k8s-docker-autodeploy-github/actions-runner/.credentials_rsaparams
+[2025-05-18 05:37:19Z INFO ConfigurationStore] HasCredentials()
+[2025-05-18 05:37:19Z INFO ConfigurationStore] stored True
+[2025-05-18 05:37:19Z INFO CredentialManager] GetCredentialProvider
+[2025-05-18 05:37:19Z INFO CredentialManager] Creating type OAuth
+[2025-05-18 05:37:19Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-18 05:37:19Z INFO RSAFileKeyManager] Loading RSA key parameters from file /home/ms/k8s-docker-autodeploy-github/actions-runner/.credentials_rsaparams
+[2025-05-18 05:38:10Z INFO ConfigurationStore] HasCredentials()
+[2025-05-18 05:38:10Z INFO ConfigurationStore] stored True
+[2025-05-18 05:38:10Z INFO CredentialManager] GetCredentialProvider
+[2025-05-18 05:38:10Z INFO CredentialManager] Creating type OAuth
+[2025-05-18 05:38:10Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-18 05:38:10Z INFO RSAFileKeyManager] Loading RSA key parameters from file /home/ms/k8s-docker-autodeploy-github/actions-runner/.credentials_rsaparams
+[2025-05-18 05:39:00Z INFO ConfigurationStore] HasCredentials()
+[2025-05-18 05:39:00Z INFO ConfigurationStore] stored True
+[2025-05-18 05:39:00Z INFO CredentialManager] GetCredentialProvider
+[2025-05-18 05:39:00Z INFO CredentialManager] Creating type OAuth
+[2025-05-18 05:39:00Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-18 05:39:00Z INFO RSAFileKeyManager] Loading RSA key parameters from file /home/ms/k8s-docker-autodeploy-github/actions-runner/.credentials_rsaparams
+[2025-05-18 05:39:51Z INFO ConfigurationStore] HasCredentials()
+[2025-05-18 05:39:51Z INFO ConfigurationStore] stored True
+[2025-05-18 05:39:51Z INFO CredentialManager] GetCredentialProvider
+[2025-05-18 05:39:51Z INFO CredentialManager] Creating type OAuth
+[2025-05-18 05:39:51Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-18 05:39:51Z INFO RSAFileKeyManager] Loading RSA key parameters from file /home/ms/k8s-docker-autodeploy-github/actions-runner/.credentials_rsaparams
+[2025-05-18 05:40:41Z INFO ConfigurationStore] HasCredentials()
+[2025-05-18 05:40:41Z INFO ConfigurationStore] stored True
+[2025-05-18 05:40:41Z INFO CredentialManager] GetCredentialProvider
+[2025-05-18 05:40:41Z INFO CredentialManager] Creating type OAuth
+[2025-05-18 05:40:41Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-18 05:40:41Z INFO RSAFileKeyManager] Loading RSA key parameters from file /home/ms/k8s-docker-autodeploy-github/actions-runner/.credentials_rsaparams
+[2025-05-18 05:41:31Z INFO ConfigurationStore] HasCredentials()
+[2025-05-18 05:41:31Z INFO ConfigurationStore] stored True
+[2025-05-18 05:41:31Z INFO CredentialManager] GetCredentialProvider
+[2025-05-18 05:41:31Z INFO CredentialManager] Creating type OAuth
+[2025-05-18 05:41:31Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-18 05:41:31Z INFO RSAFileKeyManager] Loading RSA key parameters from file /home/ms/k8s-docker-autodeploy-github/actions-runner/.credentials_rsaparams
+[2025-05-18 05:42:22Z INFO ConfigurationStore] HasCredentials()
+[2025-05-18 05:42:22Z INFO ConfigurationStore] stored True
+[2025-05-18 05:42:22Z INFO CredentialManager] GetCredentialProvider
+[2025-05-18 05:42:22Z INFO CredentialManager] Creating type OAuth
+[2025-05-18 05:42:22Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-18 05:42:22Z INFO RSAFileKeyManager] Loading RSA key parameters from file /home/ms/k8s-docker-autodeploy-github/actions-runner/.credentials_rsaparams
+[2025-05-18 05:43:12Z INFO ConfigurationStore] HasCredentials()
+[2025-05-18 05:43:12Z INFO ConfigurationStore] stored True
+[2025-05-18 05:43:12Z INFO CredentialManager] GetCredentialProvider
+[2025-05-18 05:43:12Z INFO CredentialManager] Creating type OAuth
+[2025-05-18 05:43:12Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-18 05:43:12Z INFO RSAFileKeyManager] Loading RSA key parameters from file /home/ms/k8s-docker-autodeploy-github/actions-runner/.credentials_rsaparams
+[2025-05-18 05:44:03Z INFO ConfigurationStore] HasCredentials()
+[2025-05-18 05:44:03Z INFO ConfigurationStore] stored True
+[2025-05-18 05:44:03Z INFO CredentialManager] GetCredentialProvider
+[2025-05-18 05:44:03Z INFO CredentialManager] Creating type OAuth
+[2025-05-18 05:44:03Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-18 05:44:03Z INFO RSAFileKeyManager] Loading RSA key parameters from file /home/ms/k8s-docker-autodeploy-github/actions-runner/.credentials_rsaparams
+[2025-05-18 05:44:54Z INFO ConfigurationStore] HasCredentials()
+[2025-05-18 05:44:54Z INFO ConfigurationStore] stored True
+[2025-05-18 05:44:54Z INFO CredentialManager] GetCredentialProvider
+[2025-05-18 05:44:54Z INFO CredentialManager] Creating type OAuth
+[2025-05-18 05:44:54Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-18 05:44:54Z INFO RSAFileKeyManager] Loading RSA key parameters from file /home/ms/k8s-docker-autodeploy-github/actions-runner/.credentials_rsaparams
+[2025-05-18 05:45:44Z INFO ConfigurationStore] HasCredentials()
+[2025-05-18 05:45:44Z INFO ConfigurationStore] stored True
+[2025-05-18 05:45:44Z INFO CredentialManager] GetCredentialProvider
+[2025-05-18 05:45:44Z INFO CredentialManager] Creating type OAuth
+[2025-05-18 05:45:44Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-18 05:45:44Z INFO RSAFileKeyManager] Loading RSA key parameters from file /home/ms/k8s-docker-autodeploy-github/actions-runner/.credentials_rsaparams
+[2025-05-18 05:46:35Z INFO ConfigurationStore] HasCredentials()
+[2025-05-18 05:46:35Z INFO ConfigurationStore] stored True
+[2025-05-18 05:46:35Z INFO CredentialManager] GetCredentialProvider
+[2025-05-18 05:46:35Z INFO CredentialManager] Creating type OAuth
+[2025-05-18 05:46:35Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-18 05:46:35Z INFO RSAFileKeyManager] Loading RSA key parameters from file /home/ms/k8s-docker-autodeploy-github/actions-runner/.credentials_rsaparams
+[2025-05-18 05:47:25Z INFO ConfigurationStore] HasCredentials()
+[2025-05-18 05:47:25Z INFO ConfigurationStore] stored True
+[2025-05-18 05:47:25Z INFO CredentialManager] GetCredentialProvider
+[2025-05-18 05:47:25Z INFO CredentialManager] Creating type OAuth
+[2025-05-18 05:47:25Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-18 05:47:25Z INFO RSAFileKeyManager] Loading RSA key parameters from file /home/ms/k8s-docker-autodeploy-github/actions-runner/.credentials_rsaparams
+[2025-05-18 05:48:16Z INFO ConfigurationStore] HasCredentials()
+[2025-05-18 05:48:16Z INFO ConfigurationStore] stored True
+[2025-05-18 05:48:16Z INFO CredentialManager] GetCredentialProvider
+[2025-05-18 05:48:16Z INFO CredentialManager] Creating type OAuth
+[2025-05-18 05:48:16Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-18 05:48:16Z INFO RSAFileKeyManager] Loading RSA key parameters from file /home/ms/k8s-docker-autodeploy-github/actions-runner/.credentials_rsaparams
+[2025-05-18 05:49:06Z INFO ConfigurationStore] HasCredentials()
+[2025-05-18 05:49:06Z INFO ConfigurationStore] stored True
+[2025-05-18 05:49:06Z INFO CredentialManager] GetCredentialProvider
+[2025-05-18 05:49:06Z INFO CredentialManager] Creating type OAuth
+[2025-05-18 05:49:06Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-18 05:49:06Z INFO RSAFileKeyManager] Loading RSA key parameters from file /home/ms/k8s-docker-autodeploy-github/actions-runner/.credentials_rsaparams
+[2025-05-18 05:49:56Z INFO ConfigurationStore] HasCredentials()
+[2025-05-18 05:49:56Z INFO ConfigurationStore] stored True
+[2025-05-18 05:49:56Z INFO CredentialManager] GetCredentialProvider
+[2025-05-18 05:49:56Z INFO CredentialManager] Creating type OAuth
+[2025-05-18 05:49:56Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-18 05:49:56Z INFO RSAFileKeyManager] Loading RSA key parameters from file /home/ms/k8s-docker-autodeploy-github/actions-runner/.credentials_rsaparams
+[2025-05-18 05:50:47Z INFO MessageListener] No message retrieved from session '1b52d7ad-e377-4932-8db4-4c160114e8d0' within last 30 minutes.
+[2025-05-18 05:50:47Z INFO ConfigurationStore] HasCredentials()
+[2025-05-18 05:50:47Z INFO ConfigurationStore] stored True
+[2025-05-18 05:50:47Z INFO CredentialManager] GetCredentialProvider
+[2025-05-18 05:50:47Z INFO CredentialManager] Creating type OAuth
+[2025-05-18 05:50:47Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-18 05:50:47Z INFO RSAFileKeyManager] Loading RSA key parameters from file /home/ms/k8s-docker-autodeploy-github/actions-runner/.credentials_rsaparams
+[2025-05-18 05:51:37Z INFO ConfigurationStore] HasCredentials()
+[2025-05-18 05:51:37Z INFO ConfigurationStore] stored True
+[2025-05-18 05:51:37Z INFO CredentialManager] GetCredentialProvider
+[2025-05-18 05:51:37Z INFO CredentialManager] Creating type OAuth
+[2025-05-18 05:51:37Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-18 05:51:37Z INFO RSAFileKeyManager] Loading RSA key parameters from file /home/ms/k8s-docker-autodeploy-github/actions-runner/.credentials_rsaparams
+[2025-05-18 05:52:28Z INFO ConfigurationStore] HasCredentials()
+[2025-05-18 05:52:28Z INFO ConfigurationStore] stored True
+[2025-05-18 05:52:28Z INFO CredentialManager] GetCredentialProvider
+[2025-05-18 05:52:28Z INFO CredentialManager] Creating type OAuth
+[2025-05-18 05:52:28Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-18 05:52:28Z INFO RSAFileKeyManager] Loading RSA key parameters from file /home/ms/k8s-docker-autodeploy-github/actions-runner/.credentials_rsaparams
+[2025-05-18 05:53:18Z INFO ConfigurationStore] HasCredentials()
+[2025-05-18 05:53:18Z INFO ConfigurationStore] stored True
+[2025-05-18 05:53:18Z INFO CredentialManager] GetCredentialProvider
+[2025-05-18 05:53:18Z INFO CredentialManager] Creating type OAuth
+[2025-05-18 05:53:18Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-18 05:53:18Z INFO RSAFileKeyManager] Loading RSA key parameters from file /home/ms/k8s-docker-autodeploy-github/actions-runner/.credentials_rsaparams
+[2025-05-18 05:54:09Z INFO ConfigurationStore] HasCredentials()
+[2025-05-18 05:54:09Z INFO ConfigurationStore] stored True
+[2025-05-18 05:54:09Z INFO CredentialManager] GetCredentialProvider
+[2025-05-18 05:54:09Z INFO CredentialManager] Creating type OAuth
+[2025-05-18 05:54:09Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-18 05:54:09Z INFO RSAFileKeyManager] Loading RSA key parameters from file /home/ms/k8s-docker-autodeploy-github/actions-runner/.credentials_rsaparams
+[2025-05-18 05:54:59Z INFO ConfigurationStore] HasCredentials()
+[2025-05-18 05:54:59Z INFO ConfigurationStore] stored True
+[2025-05-18 05:54:59Z INFO CredentialManager] GetCredentialProvider
+[2025-05-18 05:54:59Z INFO CredentialManager] Creating type OAuth
+[2025-05-18 05:54:59Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-18 05:54:59Z INFO RSAFileKeyManager] Loading RSA key parameters from file /home/ms/k8s-docker-autodeploy-github/actions-runner/.credentials_rsaparams
+[2025-05-18 05:55:50Z INFO ConfigurationStore] HasCredentials()
+[2025-05-18 05:55:50Z INFO ConfigurationStore] stored True
+[2025-05-18 05:55:50Z INFO CredentialManager] GetCredentialProvider
+[2025-05-18 05:55:50Z INFO CredentialManager] Creating type OAuth
+[2025-05-18 05:55:50Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-18 05:55:50Z INFO RSAFileKeyManager] Loading RSA key parameters from file /home/ms/k8s-docker-autodeploy-github/actions-runner/.credentials_rsaparams
+[2025-05-18 05:56:40Z INFO ConfigurationStore] HasCredentials()
+[2025-05-18 05:56:40Z INFO ConfigurationStore] stored True
+[2025-05-18 05:56:40Z INFO CredentialManager] GetCredentialProvider
+[2025-05-18 05:56:40Z INFO CredentialManager] Creating type OAuth
+[2025-05-18 05:56:40Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-18 05:56:40Z INFO RSAFileKeyManager] Loading RSA key parameters from file /home/ms/k8s-docker-autodeploy-github/actions-runner/.credentials_rsaparams
+[2025-05-18 05:57:31Z INFO ConfigurationStore] HasCredentials()
+[2025-05-18 05:57:31Z INFO ConfigurationStore] stored True
+[2025-05-18 05:57:31Z INFO CredentialManager] GetCredentialProvider
+[2025-05-18 05:57:31Z INFO CredentialManager] Creating type OAuth
+[2025-05-18 05:57:31Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-18 05:57:31Z INFO RSAFileKeyManager] Loading RSA key parameters from file /home/ms/k8s-docker-autodeploy-github/actions-runner/.credentials_rsaparams

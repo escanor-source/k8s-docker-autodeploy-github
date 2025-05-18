@@ -1,0 +1,17 @@
+[2025-05-18 04:19:48-5679] --------whoami--------
+ms
+[2025-05-18 04:19:48-5715] --------whoami--------
+[2025-05-18 04:19:48-5724] Waiting for Runner.Listener (4068) to complete
+[2025-05-18 04:19:48-5731] Process 4068 still running
+[2025-05-18 04:19:50-0007] Process 4068 finished running
+[2025-05-18 04:19:50-0011] Sleep 1 more second to make sure process exited
+[2025-05-18 04:19:51-0007] move /home/ms/k8s-docker-autodeploy-github/actions-runner/bin /home/ms/k8s-docker-autodeploy-github/actions-runner/bin.2.323.0
+renamed '/home/ms/k8s-docker-autodeploy-github/actions-runner/bin' -> '/home/ms/k8s-docker-autodeploy-github/actions-runner/bin.2.323.0'
+[2025-05-18 04:19:51-0021] move /home/ms/k8s-docker-autodeploy-github/actions-runner/externals /home/ms/k8s-docker-autodeploy-github/actions-runner/externals.2.323.0
+renamed '/home/ms/k8s-docker-autodeploy-github/actions-runner/externals' -> '/home/ms/k8s-docker-autodeploy-github/actions-runner/externals.2.323.0'
+[2025-05-18 04:19:51-0029] Create junction bin folder
+[2025-05-18 04:19:51-0037] Create junction externals folder
+[2025-05-18 04:19:51-0061] Update succeed
+[2025-05-18 04:19:51-0067] update.finished file creation succeed
+[2025-05-18 04:19:51-0070] Rename /home/ms/k8s-docker-autodeploy-github/actions-runner/_diag/SelfUpdate-20250518-041948.log to be /home/ms/k8s-docker-autodeploy-github/actions-runner/_diag/SelfUpdate-20250518-041948.log.succeed
+renamed '/home/ms/k8s-docker-autodeploy-github/actions-runner/_diag/SelfUpdate-20250518-041948.log' -> '/home/ms/k8s-docker-autodeploy-github/actions-runner/_diag/SelfUpdate-20250518-041948.log.succeed'

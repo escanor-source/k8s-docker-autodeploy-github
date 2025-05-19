@@ -5,7 +5,7 @@ WORKDIR /app
 COPY package.json package-lock.json ./
 RUN npm ci --no-audit --prefer-offline --progress=false
 COPY resources/ ./resources/
-COPY vite.config.js tailwind.config.js postcss.config.js ./
+COPY vite.config.js *.config.js ./
 RUN npm run build
 
 # ======== PHP Dependencies Stage ========
@@ -17,7 +17,7 @@ COPY database/ database/
 RUN composer install --no-dev --no-interaction --optimize-autoloader --no-scripts
 
 # ======== Production Stage ========
-FROM php:8.3-fpm-alpine
+FROM --platform=linux/arm64 php:8.3-fpm-alpine
 
 # Systeem dependencies en PHP extensies
 RUN apk add --no-cache \

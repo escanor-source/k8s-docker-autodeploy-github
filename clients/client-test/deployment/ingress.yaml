@@ -5,8 +5,9 @@ metadata:
   annotations:
     nginx.ingress.kubernetes.io/rewrite-target: /
 spec:
+  ingressClassName: nginx
   rules:
-    - host: escanor.localhost
+    - host: test.localhost
       http:
         paths:
           - path: /
@@ -15,4 +16,5 @@ spec:
               service:
                 name: laravel-service
                 port:
-                  number: 80
+                  number: 8000
+
